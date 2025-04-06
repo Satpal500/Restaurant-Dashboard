@@ -1,0 +1,1837 @@
+date,item_name,quantity,price,payment_mode
+2024-12-21,Samosa,1,50,UPI
+2024-12-21,Lassi,3,60,UPI
+2024-12-02,Chicken Momo,2,120,Cash
+2024-12-04,Paneer Tikka,4,180,Cash
+2024-12-05,Tandoori Chicken,5,300,UPI
+2024-12-22,Gulab Jamun,3,80,UPI
+2024-12-29,Masala Dosa,2,130,UPI
+2024-12-27,Samosa,1,50,UPI
+2024-12-09,Masala Dosa,4,130,Cash
+2024-12-07,Lassi,3,60,UPI
+2024-12-28,Gulab Jamun,2,80,Online
+2024-12-18,Chicken Momo,3,120,Online
+2024-12-09,Veg Momo,4,100,Card
+2024-12-03,Chicken Momo,4,120,Card
+2024-12-01,Samosa,5,50,Cash
+2024-12-05,Veg Dum Biryani,2,220,Card
+2024-12-07,Chicken Momo,5,120,Card
+2024-12-25,Tandoori Chicken,3,300,Card
+2024-12-09,Masala Dosa,1,130,Card
+2024-12-09,Spring Roll,5,150,Card
+2024-12-05,Chicken Momo,1,120,Cash
+2024-12-19,Veg Dum Biryani,2,220,Online
+2024-12-09,Veg Momo,2,100,Cash
+2024-12-17,Spring Roll,4,150,Cash
+2024-12-16,Lassi,1,60,UPI
+2024-12-19,Veg Dum Biryani,5,220,Cash
+2024-12-08,Gulab Jamun,5,80,Cash
+2024-12-10,Lassi,5,60,UPI
+2024-12-02,Samosa,1,50,UPI
+2024-12-22,Chicken Biryani,4,250,Cash
+2024-12-03,Gulab Jamun,4,80,Cash
+2024-12-05,Veg Dum Biryani,5,220,Cash
+2024-12-20,Spring Roll,3,150,Online
+2024-12-17,Chicken Biryani,5,250,Online
+2024-12-20,Gulab Jamun,5,80,UPI
+2024-12-28,Chicken Momo,1,120,Card
+2024-12-29,Chicken Biryani,4,250,Card
+2024-12-27,Chicken Biryani,3,250,UPI
+2024-12-24,Chicken Biryani,4,250,Cash
+2024-12-11,Veg Dum Biryani,4,220,Online
+2024-12-22,Veg Dum Biryani,2,220,UPI
+2024-12-27,Chicken Momo,1,120,Cash
+2024-12-04,Chicken Momo,4,120,Online
+2024-12-02,Spring Roll,5,150,Online
+2024-12-14,Samosa,1,50,Online
+2024-12-28,Samosa,4,50,Cash
+2024-12-10,Paneer Tikka,5,180,Online
+2024-12-17,Chicken Momo,5,120,Card
+2024-12-08,Spring Roll,4,150,Cash
+2024-12-12,Veg Dum Biryani,5,220,Cash
+2024-12-08,Paneer Tikka,5,180,UPI
+2024-12-20,Butter Naan,5,40,Cash
+2024-12-01,Masala Dosa,3,130,Card
+2024-12-30,Paneer Tikka,3,180,Online
+2024-12-06,Veg Dum Biryani,1,220,Card
+2024-12-03,Masala Dosa,4,130,Card
+2024-12-03,Lassi,1,60,Card
+2024-12-15,Chicken Biryani,4,250,Online
+2024-12-10,Spring Roll,3,150,Online
+2024-12-03,Masala Dosa,5,130,Cash
+2024-12-25,Spring Roll,2,150,Cash
+2024-12-09,Samosa,1,50,UPI
+2024-12-16,Samosa,4,50,UPI
+2024-12-07,Chicken Biryani,3,250,Cash
+2024-12-04,Veg Dum Biryani,4,220,Online
+2024-12-16,Samosa,5,50,Online
+2024-12-13,Veg Momo,2,100,Cash
+2024-12-10,Veg Momo,2,100,Card
+2024-12-10,Spring Roll,3,150,Online
+2024-12-16,Chicken Momo,1,120,UPI
+2024-12-13,Spring Roll,2,150,Card
+2024-12-27,Butter Naan,5,40,Online
+2024-12-28,Chicken Momo,4,120,Cash
+2024-12-15,Chicken Biryani,1,250,Cash
+2024-12-14,Veg Dum Biryani,5,220,UPI
+2024-12-10,Lassi,4,60,Cash
+2024-12-11,Chicken Biryani,1,250,Card
+2024-12-27,Masala Dosa,4,130,Online
+2024-12-28,Chicken Momo,4,120,Cash
+2024-12-19,Tandoori Chicken,4,300,UPI
+2024-12-13,Butter Naan,1,40,Online
+2024-12-08,Lassi,3,60,Online
+2024-12-17,Spring Roll,1,150,Cash
+2024-12-07,Butter Naan,5,40,Online
+2024-12-08,Veg Dum Biryani,2,220,Cash
+2024-12-07,Spring Roll,3,150,Card
+2024-12-25,Masala Dosa,2,130,Cash
+2024-12-15,Spring Roll,4,150,UPI
+2024-12-21,Samosa,5,50,Online
+2024-12-05,Samosa,3,50,UPI
+2024-12-15,Chicken Momo,4,120,Online
+2024-12-02,Paneer Tikka,5,180,Online
+2024-12-10,Butter Naan,1,40,UPI
+2024-12-02,Gulab Jamun,1,80,Online
+2024-12-21,Paneer Tikka,1,180,Cash
+2024-12-17,Masala Dosa,5,130,UPI
+2024-12-18,Gulab Jamun,5,80,Cash
+2024-12-21,Gulab Jamun,5,80,Card
+2024-12-16,Veg Dum Biryani,5,220,Card
+2024-12-04,Veg Momo,4,100,Online
+2024-12-17,Lassi,1,60,Card
+2024-12-23,Veg Momo,2,100,UPI
+2024-12-17,Gulab Jamun,5,80,Card
+2024-12-30,Veg Dum Biryani,3,220,Online
+2024-12-25,Chicken Biryani,4,250,Online
+2024-12-02,Samosa,5,50,Online
+2024-12-04,Chicken Momo,3,120,UPI
+2024-12-24,Paneer Tikka,3,180,Card
+2024-12-19,Veg Dum Biryani,1,220,Card
+2025-01-05,Samosa,4,50,Cash
+2025-01-13,Paneer Tikka,5,180,Online
+2025-01-03,Spring Roll,5,150,UPI
+2025-01-01,Butter Naan,3,40,Online
+2025-01-07,Paneer Tikka,2,180,Online
+2025-01-08,Gulab Jamun,2,80,Card
+2025-01-10,Spring Roll,1,150,Cash
+2025-01-27,Butter Naan,5,40,Cash
+2025-01-29,Samosa,3,50,Card
+2025-01-05,Masala Dosa,4,130,Card
+2025-01-26,Spring Roll,5,150,Card
+2025-01-02,Lassi,4,60,UPI
+2025-01-15,Veg Dum Biryani,2,220,Online
+2025-01-08,Lassi,4,60,Card
+2025-01-29,Paneer Tikka,4,180,Card
+2025-01-15,Veg Dum Biryani,5,220,UPI
+2025-01-17,Paneer Tikka,4,180,UPI
+2025-01-26,Spring Roll,2,150,Card
+2025-01-21,Paneer Tikka,1,180,UPI
+2025-01-30,Veg Dum Biryani,5,220,Cash
+2025-01-28,Lassi,5,60,Cash
+2025-01-25,Paneer Tikka,1,180,Card
+2025-01-29,Paneer Tikka,4,180,Card
+2025-01-30,Chicken Biryani,1,250,Card
+2025-01-30,Gulab Jamun,3,80,Cash
+2025-01-13,Chicken Biryani,1,250,Online
+2025-01-03,Tandoori Chicken,4,300,Online
+2025-01-11,Tandoori Chicken,1,300,Cash
+2025-01-26,Lassi,3,60,Card
+2025-01-10,Spring Roll,1,150,UPI
+2025-01-25,Lassi,2,60,UPI
+2025-01-01,Gulab Jamun,5,80,Cash
+2025-01-07,Veg Momo,3,100,Card
+2025-01-17,Butter Naan,5,40,UPI
+2025-01-08,Chicken Momo,3,120,Online
+2025-01-08,Chicken Momo,1,120,UPI
+2025-01-15,Samosa,5,50,Cash
+2025-01-20,Chicken Momo,4,120,Cash
+2025-01-19,Samosa,5,50,Card
+2025-01-10,Lassi,2,60,UPI
+2025-01-12,Veg Momo,5,100,Card
+2025-01-06,Masala Dosa,4,130,Cash
+2025-01-03,Butter Naan,3,40,Cash
+2025-01-02,Chicken Biryani,4,250,UPI
+2025-01-24,Veg Dum Biryani,3,220,Cash
+2025-01-12,Veg Dum Biryani,1,220,Card
+2025-01-25,Lassi,1,60,Online
+2025-01-12,Spring Roll,1,150,Online
+2025-01-27,Samosa,2,50,UPI
+2025-01-21,Lassi,4,60,Card
+2025-01-23,Spring Roll,1,150,UPI
+2025-01-07,Veg Momo,3,100,Cash
+2025-01-11,Tandoori Chicken,1,300,Online
+2025-01-27,Butter Naan,4,40,UPI
+2025-01-25,Paneer Tikka,1,180,Card
+2025-01-28,Paneer Tikka,3,180,Cash
+2025-01-09,Samosa,3,50,Cash
+2025-01-29,Veg Dum Biryani,4,220,UPI
+2025-01-29,Lassi,4,60,UPI
+2025-01-16,Veg Dum Biryani,2,220,UPI
+2025-01-09,Veg Dum Biryani,5,220,Cash
+2025-01-03,Lassi,4,60,UPI
+2025-01-18,Masala Dosa,2,130,Online
+2025-01-03,Veg Dum Biryani,1,220,Online
+2025-01-10,Samosa,3,50,UPI
+2025-01-06,Masala Dosa,4,130,UPI
+2025-01-02,Veg Dum Biryani,4,220,Online
+2025-01-09,Masala Dosa,4,130,Cash
+2025-01-12,Chicken Momo,4,120,Card
+2025-01-28,Veg Momo,2,100,UPI
+2025-01-03,Veg Momo,2,100,Card
+2025-01-12,Samosa,3,50,UPI
+2025-01-20,Masala Dosa,1,130,Card
+2025-01-12,Samosa,4,50,Online
+2025-01-19,Gulab Jamun,1,80,Card
+2025-01-13,Butter Naan,3,40,Online
+2025-01-08,Samosa,3,50,Cash
+2025-01-16,Veg Momo,2,100,UPI
+2025-01-09,Butter Naan,1,40,Online
+2025-01-07,Lassi,4,60,Online
+2025-01-07,Lassi,4,60,Cash
+2025-01-15,Spring Roll,1,150,Card
+2025-01-03,Lassi,4,60,Online
+2025-01-23,Samosa,3,50,Cash
+2025-01-10,Butter Naan,5,40,Online
+2025-01-26,Spring Roll,2,150,Online
+2025-01-04,Butter Naan,2,40,Card
+2025-01-26,Spring Roll,2,150,UPI
+2025-01-18,Veg Momo,3,100,Online
+2025-01-05,Gulab Jamun,5,80,Cash
+2025-01-13,Chicken Momo,3,120,UPI
+2025-01-25,Butter Naan,4,40,UPI
+2025-01-05,Masala Dosa,1,130,Online
+2025-01-15,Samosa,1,50,UPI
+2025-01-12,Samosa,5,50,Card
+2025-01-06,Butter Naan,5,40,Card
+2025-01-30,Chicken Biryani,5,250,Cash
+2025-01-05,Chicken Momo,5,120,Online
+2025-01-11,Spring Roll,2,150,Card
+2025-01-29,Veg Dum Biryani,5,220,Online
+2025-01-07,Chicken Momo,3,120,Online
+2025-01-20,Spring Roll,3,150,Cash
+2025-01-19,Butter Naan,2,40,Card
+2025-01-24,Spring Roll,5,150,Online
+2025-01-27,Masala Dosa,1,130,Cash
+2025-01-21,Chicken Momo,1,120,Online
+2025-01-25,Samosa,2,50,UPI
+2025-01-16,Masala Dosa,1,130,Online
+2025-01-16,Samosa,3,50,Card
+2025-01-10,Samosa,4,50,UPI
+2025-01-06,Chicken Momo,1,120,UPI
+2025-01-15,Chicken Biryani,4,250,Card
+2025-01-05,Veg Dum Biryani,5,220,Online
+2025-01-24,Lassi,3,60,Online
+2025-01-25,Chicken Biryani,2,250,Online
+2025-01-04,Butter Naan,5,40,Online
+2025-01-04,Tandoori Chicken,4,300,Online
+2025-01-05,Gulab Jamun,2,80,Cash
+2025-01-13,Veg Momo,3,100,UPI
+2025-01-27,Tandoori Chicken,2,300,Online
+2025-01-07,Masala Dosa,3,130,Card
+2025-01-15,Gulab Jamun,5,80,UPI
+2025-01-01,Paneer Tikka,4,180,Cash
+2025-01-15,Chicken Biryani,5,250,Card
+2025-01-12,Tandoori Chicken,5,300,Cash
+2025-01-16,Veg Momo,3,100,UPI
+2025-01-01,Paneer Tikka,5,180,Cash
+2025-01-29,Chicken Biryani,2,250,Online
+2025-01-25,Lassi,3,60,UPI
+2025-01-13,Veg Dum Biryani,1,220,Cash
+2025-01-07,Masala Dosa,5,130,Online
+2025-01-03,Butter Naan,3,40,UPI
+2025-01-25,Butter Naan,4,40,Online
+2025-01-04,Masala Dosa,5,130,Card
+2025-01-12,Chicken Momo,4,120,Online
+2025-01-25,Butter Naan,3,40,Card
+2025-01-17,Tandoori Chicken,5,300,UPI
+2025-01-02,Butter Naan,1,40,Cash
+2025-01-26,Spring Roll,3,150,UPI
+2025-01-05,Butter Naan,4,40,Card
+2025-01-11,Veg Dum Biryani,5,220,Card
+2025-01-24,Chicken Biryani,5,250,Online
+2025-01-17,Masala Dosa,3,130,UPI
+2025-01-10,Lassi,5,60,UPI
+2025-01-11,Veg Momo,3,100,Cash
+2025-01-10,Chicken Biryani,5,250,Cash
+2025-01-09,Masala Dosa,4,130,Card
+2025-01-19,Lassi,1,60,UPI
+2025-01-21,Spring Roll,5,150,UPI
+2025-01-02,Spring Roll,2,150,Cash
+2025-01-15,Tandoori Chicken,1,300,Online
+2025-01-14,Chicken Biryani,2,250,Card
+2025-01-25,Chicken Biryani,5,250,UPI
+2025-01-23,Lassi,1,60,Card
+2025-01-18,Butter Naan,2,40,Online
+2025-01-17,Samosa,4,50,UPI
+2025-01-15,Veg Dum Biryani,2,220,Online
+2025-01-22,Butter Naan,3,40,Online
+2025-01-07,Masala Dosa,4,130,Card
+2025-01-10,Paneer Tikka,5,180,Card
+2025-01-23,Paneer Tikka,3,180,Card
+2025-01-11,Lassi,4,60,UPI
+2025-01-30,Veg Dum Biryani,5,220,Online
+2025-01-19,Paneer Tikka,1,180,UPI
+2025-01-25,Chicken Biryani,3,250,Card
+2025-01-10,Paneer Tikka,1,180,Cash
+2025-01-21,Veg Dum Biryani,4,220,Online
+2025-01-07,Lassi,4,60,Card
+2025-01-30,Butter Naan,3,40,Online
+2025-01-20,Spring Roll,1,150,Card
+2025-01-22,Tandoori Chicken,1,300,Card
+2025-01-02,Samosa,2,50,Cash
+2025-01-23,Chicken Biryani,3,250,UPI
+2025-01-01,Chicken Momo,2,120,Card
+2025-01-16,Chicken Biryani,4,250,Card
+2025-01-10,Paneer Tikka,3,180,Cash
+2025-01-08,Chicken Momo,5,120,Cash
+2025-01-29,Spring Roll,4,150,Card
+2025-01-26,Veg Momo,4,100,UPI
+2025-01-29,Spring Roll,3,150,Cash
+2025-01-19,Veg Momo,3,100,Cash
+2025-01-15,Veg Dum Biryani,3,220,UPI
+2025-01-15,Spring Roll,5,150,Online
+2025-01-11,Tandoori Chicken,1,300,Card
+2025-01-21,Lassi,4,60,Online
+2025-01-01,Lassi,2,60,Online
+2025-01-22,Paneer Tikka,5,180,Card
+2025-01-28,Spring Roll,5,150,UPI
+2025-01-11,Chicken Biryani,5,250,Cash
+2025-01-06,Chicken Biryani,1,250,Card
+2025-01-30,Gulab Jamun,3,80,Card
+2025-01-13,Veg Momo,3,100,Card
+2025-01-11,Gulab Jamun,3,80,Online
+2025-01-01,Masala Dosa,5,130,Online
+2025-01-23,Samosa,3,50,Card
+2025-01-15,Veg Momo,1,100,Online
+2025-01-22,Spring Roll,4,150,Online
+2025-01-21,Lassi,1,60,Online
+2025-01-08,Veg Dum Biryani,5,220,Card
+2025-01-05,Spring Roll,4,150,UPI
+2025-01-12,Lassi,5,60,UPI
+2025-01-30,Lassi,5,60,UPI
+2025-01-25,Butter Naan,2,40,Card
+2025-01-28,Samosa,5,50,Cash
+2025-01-17,Butter Naan,4,40,Online
+2025-01-04,Chicken Momo,5,120,Cash
+2025-01-07,Butter Naan,5,40,Card
+2025-01-28,Spring Roll,3,150,UPI
+2025-01-23,Chicken Momo,2,120,UPI
+2025-01-15,Chicken Momo,5,120,Cash
+2025-01-17,Gulab Jamun,2,80,UPI
+2025-01-02,Gulab Jamun,5,80,UPI
+2025-01-24,Samosa,3,50,Cash
+2025-01-27,Chicken Biryani,3,250,Cash
+2025-01-19,Lassi,2,60,Cash
+2025-01-12,Veg Momo,4,100,Cash
+2025-01-30,Butter Naan,1,40,Cash
+2025-01-10,Gulab Jamun,1,80,UPI
+2025-01-25,Spring Roll,2,150,UPI
+2025-01-15,Veg Dum Biryani,4,220,UPI
+2025-01-22,Chicken Biryani,1,250,Card
+2025-01-04,Samosa,3,50,Card
+2025-01-17,Butter Naan,4,40,Card
+2025-01-27,Lassi,2,60,Cash
+2025-01-15,Veg Momo,3,100,UPI
+2025-01-27,Butter Naan,4,40,Card
+2025-01-12,Tandoori Chicken,4,300,Card
+2025-01-30,Paneer Tikka,2,180,Cash
+2025-01-20,Veg Momo,4,100,Cash
+2025-01-03,Tandoori Chicken,2,300,Cash
+2025-01-15,Masala Dosa,1,130,Cash
+2025-01-13,Tandoori Chicken,1,300,UPI
+2025-01-07,Tandoori Chicken,5,300,Cash
+2025-01-10,Spring Roll,5,150,Card
+2025-01-11,Lassi,5,60,Online
+2025-01-29,Tandoori Chicken,3,300,Card
+2025-01-08,Samosa,5,50,UPI
+2025-01-02,Paneer Tikka,3,180,Card
+2025-01-18,Samosa,4,50,UPI
+2025-01-21,Veg Momo,3,100,UPI
+2025-01-23,Butter Naan,3,40,UPI
+2025-01-10,Chicken Biryani,2,250,UPI
+2025-02-28,Gulab Jamun,2,80,Card
+2025-02-26,Paneer Tikka,2,180,UPI
+2025-02-14,Veg Momo,5,100,UPI
+2025-02-05,Butter Naan,5,40,UPI
+2025-02-07,Tandoori Chicken,3,300,Online
+2025-03-02,Samosa,1,50,UPI
+2025-02-18,Veg Dum Biryani,1,220,Card
+2025-02-13,Veg Momo,3,100,Cash
+2025-02-26,Chicken Momo,2,120,Card
+2025-02-28,Gulab Jamun,2,80,Online
+2025-02-07,Paneer Tikka,1,180,Card
+2025-02-24,Lassi,1,60,UPI
+2025-02-23,Tandoori Chicken,5,300,Card
+2025-02-18,Chicken Biryani,2,250,Online
+2025-02-15,Paneer Tikka,4,180,Online
+2025-02-12,Paneer Tikka,3,180,UPI
+2025-02-26,Gulab Jamun,1,80,UPI
+2025-02-12,Veg Dum Biryani,2,220,Online
+2025-02-19,Chicken Biryani,1,250,Card
+2025-02-01,Lassi,2,60,Online
+2025-02-19,Butter Naan,5,40,UPI
+2025-02-07,Paneer Tikka,2,180,Online
+2025-02-19,Tandoori Chicken,4,300,Card
+2025-02-21,Gulab Jamun,5,80,Online
+2025-02-24,Paneer Tikka,4,180,UPI
+2025-02-24,Gulab Jamun,2,80,Online
+2025-02-24,Spring Roll,2,150,UPI
+2025-02-21,Spring Roll,5,150,Cash
+2025-02-27,Butter Naan,1,40,Cash
+2025-02-25,Samosa,1,50,Cash
+2025-02-27,Chicken Biryani,2,250,Card
+2025-02-01,Chicken Momo,2,120,Card
+2025-02-12,Butter Naan,4,40,Cash
+2025-03-02,Masala Dosa,5,130,UPI
+2025-02-01,Samosa,4,50,Cash
+2025-02-14,Butter Naan,5,40,Cash
+2025-02-24,Veg Momo,5,100,Online
+2025-02-01,Butter Naan,3,40,UPI
+2025-03-02,Spring Roll,1,150,Cash
+2025-02-08,Butter Naan,2,40,Card
+2025-02-09,Masala Dosa,5,130,Online
+2025-02-03,Paneer Tikka,4,180,Online
+2025-02-19,Chicken Biryani,4,250,Card
+2025-02-10,Lassi,2,60,Cash
+2025-02-03,Samosa,1,50,UPI
+2025-02-18,Chicken Biryani,4,250,UPI
+2025-02-23,Veg Momo,1,100,Card
+2025-02-28,Chicken Momo,4,120,UPI
+2025-02-19,Samosa,3,50,Cash
+2025-02-08,Butter Naan,1,40,Card
+2025-02-16,Lassi,5,60,Online
+2025-02-22,Veg Momo,1,100,Online
+2025-02-22,Butter Naan,5,40,Cash
+2025-02-01,Spring Roll,3,150,Card
+2025-02-25,Masala Dosa,2,130,UPI
+2025-02-06,Chicken Momo,3,120,Card
+2025-02-22,Masala Dosa,4,130,Online
+2025-02-26,Chicken Biryani,2,250,Cash
+2025-02-02,Butter Naan,3,40,Cash
+2025-02-27,Chicken Biryani,2,250,Cash
+2025-02-25,Veg Dum Biryani,5,220,UPI
+2025-02-21,Veg Dum Biryani,1,220,Online
+2025-02-08,Gulab Jamun,4,80,Online
+2025-02-14,Butter Naan,4,40,Card
+2025-02-22,Samosa,5,50,UPI
+2025-02-10,Chicken Momo,5,120,Card
+2025-02-03,Lassi,1,60,Online
+2025-02-23,Spring Roll,4,150,Card
+2025-02-11,Lassi,4,60,Online
+2025-02-01,Chicken Momo,1,120,Online
+2025-02-25,Gulab Jamun,3,80,Online
+2025-02-03,Chicken Momo,2,120,Card
+2025-02-18,Chicken Biryani,4,250,UPI
+2025-02-03,Chicken Momo,1,120,Online
+2025-02-20,Butter Naan,1,40,Online
+2025-02-10,Chicken Biryani,1,250,UPI
+2025-02-24,Chicken Biryani,1,250,Card
+2025-02-06,Masala Dosa,5,130,UPI
+2025-02-09,Spring Roll,2,150,Online
+2025-02-05,Paneer Tikka,4,180,Cash
+2025-02-09,Spring Roll,4,150,UPI
+2025-02-26,Paneer Tikka,4,180,Cash
+2025-02-08,Veg Dum Biryani,3,220,UPI
+2025-02-07,Masala Dosa,5,130,UPI
+2025-02-10,Chicken Momo,2,120,Cash
+2025-02-27,Chicken Biryani,3,250,UPI
+2025-02-11,Veg Dum Biryani,4,220,UPI
+2025-02-05,Samosa,5,50,Online
+2025-02-23,Veg Dum Biryani,5,220,Card
+2025-02-06,Gulab Jamun,3,80,UPI
+2025-02-24,Veg Dum Biryani,3,220,UPI
+2025-02-11,Masala Dosa,2,130,UPI
+2025-02-12,Paneer Tikka,4,180,Cash
+2025-02-19,Masala Dosa,2,130,Card
+2025-02-01,Samosa,5,50,UPI
+2025-02-15,Lassi,2,60,Online
+2025-02-27,Lassi,1,60,UPI
+2025-02-05,Samosa,4,50,Online
+2025-02-22,Tandoori Chicken,3,300,Card
+2025-02-26,Lassi,4,60,UPI
+2025-02-20,Chicken Momo,4,120,UPI
+2025-02-18,Masala Dosa,4,130,UPI
+2025-02-26,Butter Naan,1,40,Online
+2025-02-20,Lassi,5,60,Cash
+2025-02-22,Chicken Momo,2,120,Online
+2025-02-02,Spring Roll,5,150,UPI
+2025-02-04,Veg Dum Biryani,4,220,Cash
+2025-02-08,Chicken Momo,3,120,Card
+2025-02-13,Gulab Jamun,3,80,UPI
+2025-02-23,Samosa,5,50,Card
+2025-02-16,Veg Dum Biryani,1,220,Cash
+2025-03-02,Paneer Tikka,4,180,Cash
+2025-02-12,Chicken Momo,2,120,Online
+2025-02-26,Veg Dum Biryani,4,220,Card
+2025-02-12,Butter Naan,4,40,UPI
+2025-02-24,Chicken Momo,4,120,UPI
+2025-02-10,Veg Dum Biryani,1,220,Cash
+2025-02-01,Lassi,1,60,Online
+2025-02-22,Samosa,1,50,Card
+2025-02-17,Lassi,2,60,Card
+2025-02-11,Butter Naan,2,40,UPI
+2025-02-26,Gulab Jamun,2,80,UPI
+2025-02-06,Samosa,2,50,UPI
+2025-02-24,Chicken Biryani,1,250,Card
+2025-02-14,Gulab Jamun,5,80,UPI
+2025-02-07,Veg Momo,2,100,Online
+2025-02-19,Lassi,1,60,Cash
+2025-02-12,Butter Naan,2,40,Online
+2025-02-04,Tandoori Chicken,4,300,Online
+2025-02-17,Samosa,4,50,Online
+2025-02-20,Masala Dosa,4,130,UPI
+2025-02-12,Masala Dosa,1,130,Online
+2025-02-06,Gulab Jamun,5,80,Online
+2025-02-03,Masala Dosa,5,130,Card
+2025-02-08,Veg Dum Biryani,1,220,Online
+2025-02-12,Chicken Momo,2,120,Card
+2025-02-14,Butter Naan,4,40,Card
+2025-02-14,Masala Dosa,4,130,Card
+2025-02-23,Gulab Jamun,5,80,Card
+2025-02-16,Butter Naan,2,40,Online
+2025-02-11,Spring Roll,2,150,UPI
+2025-02-28,Masala Dosa,1,130,Online
+2025-02-05,Veg Momo,4,100,Card
+2025-02-17,Chicken Biryani,5,250,UPI
+2025-02-14,Chicken Biryani,4,250,UPI
+2025-02-03,Gulab Jamun,2,80,Cash
+2025-02-02,Tandoori Chicken,3,300,Online
+2025-02-10,Tandoori Chicken,5,300,Card
+2025-02-24,Gulab Jamun,5,80,UPI
+2025-02-04,Butter Naan,5,40,Cash
+2025-02-27,Paneer Tikka,5,180,Online
+2025-02-25,Butter Naan,1,40,UPI
+2025-02-14,Butter Naan,2,40,Cash
+2025-02-10,Lassi,2,60,Cash
+2025-02-12,Gulab Jamun,3,80,Cash
+2025-02-25,Gulab Jamun,1,80,Card
+2025-02-23,Tandoori Chicken,5,300,Online
+2025-02-21,Lassi,5,60,UPI
+2025-02-05,Spring Roll,5,150,Card
+2025-02-19,Tandoori Chicken,1,300,Online
+2025-02-20,Butter Naan,3,40,Card
+2025-02-10,Veg Dum Biryani,3,220,Online
+2025-02-05,Butter Naan,1,40,UPI
+2025-02-28,Veg Momo,3,100,Card
+2025-02-08,Lassi,2,60,Card
+2025-02-27,Lassi,3,60,Card
+2025-02-16,Samosa,4,50,Card
+2025-02-21,Masala Dosa,3,130,UPI
+2025-02-03,Chicken Biryani,4,250,Cash
+2025-02-24,Chicken Biryani,5,250,Online
+2025-02-15,Lassi,3,60,UPI
+2025-02-01,Veg Dum Biryani,5,220,Cash
+2025-02-21,Lassi,4,60,Online
+2025-02-13,Chicken Momo,5,120,Card
+2025-02-16,Chicken Biryani,2,250,Online
+2025-02-11,Veg Dum Biryani,3,220,Card
+2025-02-26,Masala Dosa,4,130,Online
+2025-02-02,Samosa,1,50,Cash
+2025-02-01,Samosa,4,50,Cash
+2025-02-15,Spring Roll,4,150,Cash
+2025-02-23,Chicken Biryani,2,250,Card
+2025-02-06,Samosa,3,50,Online
+2025-02-09,Chicken Momo,3,120,Cash
+2025-02-02,Veg Dum Biryani,2,220,UPI
+2025-02-24,Samosa,3,50,Card
+2025-02-23,Chicken Biryani,1,250,Cash
+2025-02-16,Veg Momo,2,100,Cash
+2025-02-08,Spring Roll,5,150,UPI
+2025-02-23,Veg Momo,1,100,Online
+2025-02-23,Chicken Momo,4,120,Card
+2025-02-08,Gulab Jamun,1,80,UPI
+2025-02-04,Chicken Momo,1,120,Online
+2025-02-05,Veg Dum Biryani,3,220,UPI
+2025-02-03,Spring Roll,2,150,Cash
+2025-02-15,Masala Dosa,2,130,Online
+2025-02-21,Lassi,2,60,Card
+2025-02-22,Chicken Biryani,5,250,UPI
+2025-03-01,Tandoori Chicken,1,300,Cash
+2025-02-19,Spring Roll,1,150,UPI
+2025-02-11,Veg Dum Biryani,4,220,Card
+2025-02-21,Tandoori Chicken,3,300,Cash
+2025-02-20,Tandoori Chicken,5,300,Online
+2025-02-28,Lassi,1,60,Online
+2025-02-20,Tandoori Chicken,5,300,Card
+2025-02-10,Lassi,4,60,Cash
+2025-02-13,Tandoori Chicken,4,300,Cash
+2025-02-21,Tandoori Chicken,4,300,Cash
+2025-02-12,Butter Naan,1,40,Online
+2025-02-28,Spring Roll,4,150,UPI
+2025-02-22,Veg Dum Biryani,5,220,Card
+2025-02-01,Gulab Jamun,1,80,Cash
+2025-02-07,Veg Momo,3,100,Cash
+2025-02-17,Veg Momo,4,100,Online
+2025-02-25,Samosa,5,50,UPI
+2025-02-03,Chicken Biryani,4,250,Card
+2025-02-10,Paneer Tikka,1,180,Cash
+2025-02-26,Butter Naan,2,40,Card
+2025-02-13,Butter Naan,3,40,Cash
+2025-02-24,Paneer Tikka,4,180,Card
+2025-02-03,Veg Momo,2,100,UPI
+2025-02-20,Chicken Momo,4,120,Cash
+2025-02-04,Paneer Tikka,2,180,Cash
+2025-02-23,Lassi,2,60,Cash
+2025-02-12,Spring Roll,4,150,Online
+2025-02-05,Spring Roll,3,150,Online
+2025-02-25,Lassi,1,60,Cash
+2025-02-09,Veg Dum Biryani,4,220,Cash
+2025-02-21,Paneer Tikka,5,180,Cash
+2025-02-17,Gulab Jamun,4,80,Online
+2025-02-28,Veg Momo,4,100,Card
+2025-02-09,Veg Dum Biryani,2,220,Cash
+2025-02-08,Masala Dosa,1,130,Cash
+2025-02-08,Veg Momo,1,100,Cash
+2025-02-13,Gulab Jamun,3,80,Card
+2025-02-18,Spring Roll,1,150,UPI
+2025-02-08,Tandoori Chicken,3,300,UPI
+2025-02-09,Lassi,3,60,Cash
+2025-02-04,Masala Dosa,3,130,Cash
+2025-02-26,Spring Roll,2,150,Cash
+2025-03-01,Chicken Biryani,1,250,UPI
+2025-02-11,Paneer Tikka,3,180,Cash
+2025-02-01,Butter Naan,4,40,Online
+2025-02-19,Tandoori Chicken,3,300,Online
+2025-02-08,Lassi,5,60,UPI
+2025-02-16,Veg Dum Biryani,5,220,Card
+2025-02-25,Lassi,5,60,Card
+2025-03-02,Spring Roll,1,150,UPI
+2025-02-18,Veg Momo,2,100,Online
+2025-02-11,Samosa,1,50,Cash
+2025-02-28,Samosa,4,50,Online
+2025-02-17,Chicken Momo,2,120,Card
+2025-02-02,Chicken Biryani,4,250,Card
+2025-02-03,Lassi,3,60,Cash
+2025-02-14,Tandoori Chicken,5,300,Online
+2025-02-19,Gulab Jamun,1,80,Cash
+2025-02-21,Butter Naan,2,40,UPI
+2025-02-19,Chicken Momo,5,120,Cash
+2025-02-08,Chicken Biryani,2,250,Online
+2025-03-02,Paneer Tikka,3,180,UPI
+2025-02-11,Lassi,3,60,UPI
+2025-02-03,Paneer Tikka,2,180,Card
+2025-02-04,Spring Roll,5,150,Card
+2025-02-15,Chicken Momo,2,120,UPI
+2025-02-04,Veg Dum Biryani,4,220,Online
+2025-02-10,Tandoori Chicken,4,300,UPI
+2025-02-03,Paneer Tikka,1,180,Card
+2025-02-27,Samosa,3,50,Cash
+2025-02-05,Tandoori Chicken,3,300,Cash
+2025-02-12,Lassi,2,60,UPI
+2025-02-22,Butter Naan,1,40,Online
+2025-02-01,Paneer Tikka,2,180,UPI
+2025-02-24,Gulab Jamun,5,80,Card
+2025-02-04,Chicken Momo,4,120,Card
+2025-02-02,Chicken Momo,1,120,Card
+2025-02-27,Spring Roll,2,150,UPI
+2025-02-19,Veg Dum Biryani,1,220,Online
+2025-02-03,Chicken Momo,1,120,Card
+2025-02-26,Samosa,4,50,Card
+2025-02-04,Chicken Momo,3,120,Cash
+2025-02-06,Gulab Jamun,1,80,UPI
+2025-02-16,Lassi,4,60,Cash
+2025-02-06,Chicken Biryani,4,250,Online
+2025-02-09,Tandoori Chicken,2,300,Online
+2025-02-02,Gulab Jamun,2,80,Card
+2025-02-16,Samosa,3,50,UPI
+2025-02-02,Butter Naan,4,40,Cash
+2025-02-05,Paneer Tikka,4,180,UPI
+2025-02-08,Tandoori Chicken,5,300,Cash
+2025-02-16,Chicken Biryani,3,250,UPI
+2025-02-17,Veg Dum Biryani,5,220,Online
+2025-02-06,Chicken Biryani,3,250,Cash
+2025-02-08,Veg Dum Biryani,5,220,Cash
+2025-02-26,Paneer Tikka,1,180,UPI
+2025-02-25,Butter Naan,3,40,Card
+2025-02-08,Spring Roll,1,150,Card
+2025-02-27,Paneer Tikka,5,180,Cash
+2025-02-28,Tandoori Chicken,5,300,UPI
+2025-02-06,Veg Dum Biryani,2,220,Card
+2025-02-26,Masala Dosa,3,130,Online
+2025-02-23,Masala Dosa,1,130,Online
+2025-02-05,Masala Dosa,5,130,Card
+2025-02-10,Gulab Jamun,5,80,Card
+2025-02-03,Gulab Jamun,1,80,Cash
+2025-02-08,Tandoori Chicken,5,300,Cash
+2025-02-01,Butter Naan,4,40,Online
+2025-02-26,Masala Dosa,2,130,Card
+2025-03-02,Veg Dum Biryani,2,220,Online
+2025-02-05,Veg Momo,1,100,Card
+2025-02-28,Chicken Momo,5,120,Online
+2025-02-23,Chicken Momo,3,120,UPI
+2025-02-11,Masala Dosa,1,130,Online
+2025-02-06,Veg Dum Biryani,2,220,UPI
+2025-02-21,Samosa,4,50,Online
+2025-02-23,Spring Roll,5,150,Online
+2025-02-27,Tandoori Chicken,5,300,Card
+2025-02-24,Chicken Biryani,3,250,Online
+2025-02-24,Spring Roll,2,150,Cash
+2025-02-13,Lassi,5,60,Cash
+2025-02-11,Spring Roll,5,150,Card
+2025-02-04,Samosa,5,50,UPI
+2025-02-24,Spring Roll,3,150,Cash
+2025-02-11,Tandoori Chicken,3,300,Card
+2025-02-27,Samosa,1,50,Online
+2025-02-09,Gulab Jamun,1,80,Card
+2025-02-12,Tandoori Chicken,1,300,Online
+2025-02-02,Chicken Momo,1,120,UPI
+2025-02-06,Gulab Jamun,4,80,UPI
+2025-02-12,Gulab Jamun,4,80,UPI
+2025-02-26,Chicken Momo,4,120,Card
+2025-02-03,Spring Roll,4,150,Cash
+2025-02-11,Paneer Tikka,1,180,Online
+2025-02-11,Chicken Momo,1,120,Card
+2025-02-24,Chicken Biryani,2,250,Cash
+2025-02-11,Butter Naan,1,40,UPI
+2025-02-14,Lassi,1,60,Card
+2025-02-06,Masala Dosa,4,130,Cash
+2025-02-07,Chicken Momo,3,120,Card
+2025-02-24,Chicken Biryani,5,250,Online
+2025-02-10,Samosa,3,50,Card
+2025-02-13,Chicken Momo,1,120,UPI
+2025-02-12,Spring Roll,1,150,Cash
+2025-02-10,Chicken Biryani,1,250,UPI
+2025-02-01,Tandoori Chicken,1,300,Card
+2025-02-03,Spring Roll,3,150,UPI
+2025-02-26,Chicken Momo,3,120,UPI
+2025-03-01,Gulab Jamun,4,80,Online
+2025-02-13,Chicken Momo,5,120,Card
+2025-02-12,Veg Dum Biryani,4,220,Card
+2025-02-09,Gulab Jamun,1,80,UPI
+2025-02-08,Gulab Jamun,3,80,Online
+2025-02-05,Masala Dosa,1,130,Cash
+2025-02-26,Chicken Momo,3,120,UPI
+2025-02-18,Masala Dosa,2,130,Cash
+2025-02-14,Chicken Biryani,5,250,UPI
+2025-02-16,Masala Dosa,2,130,Online
+2025-03-01,Chicken Momo,4,120,Cash
+2025-03-01,Butter Naan,5,40,Card
+2025-02-06,Chicken Momo,4,120,Card
+2025-02-05,Tandoori Chicken,2,300,Cash
+2025-02-22,Chicken Biryani,1,250,UPI
+2025-02-27,Tandoori Chicken,2,300,Online
+2025-02-03,Veg Dum Biryani,1,220,UPI
+2025-02-18,Butter Naan,4,40,Online
+2025-02-15,Paneer Tikka,5,180,Cash
+2025-02-19,Lassi,5,60,UPI
+2025-02-05,Chicken Momo,4,120,Card
+2025-02-19,Masala Dosa,5,130,Cash
+2025-02-25,Chicken Momo,5,120,Cash
+2025-03-01,Paneer Tikka,5,180,Online
+2025-02-13,Chicken Biryani,3,250,UPI
+2025-02-16,Masala Dosa,5,130,Cash
+2025-02-13,Spring Roll,3,150,Card
+2025-02-22,Masala Dosa,5,130,UPI
+2025-03-01,Veg Momo,4,100,Online
+2025-02-02,Lassi,2,60,UPI
+2025-02-01,Paneer Tikka,3,180,Online
+2025-02-09,Paneer Tikka,3,180,UPI
+2025-02-28,Lassi,1,60,Card
+2025-02-24,Spring Roll,3,150,UPI
+2025-02-24,Veg Dum Biryani,3,220,UPI
+2025-02-07,Masala Dosa,1,130,UPI
+2025-02-24,Tandoori Chicken,4,300,UPI
+2025-02-27,Butter Naan,3,40,Cash
+2025-02-03,Butter Naan,2,40,Online
+2025-02-13,Lassi,5,60,Card
+2025-02-01,Butter Naan,5,40,Card
+2025-02-27,Tandoori Chicken,2,300,Cash
+2025-02-15,Tandoori Chicken,1,300,Cash
+2025-02-09,Veg Dum Biryani,2,220,Online
+2025-02-13,Gulab Jamun,5,80,Cash
+2025-02-08,Samosa,1,50,Online
+2025-02-15,Gulab Jamun,5,80,Card
+2025-02-18,Gulab Jamun,5,80,Online
+2025-02-27,Veg Dum Biryani,2,220,Online
+2025-02-10,Lassi,1,60,Cash
+2025-02-06,Chicken Biryani,1,250,Card
+2025-02-22,Tandoori Chicken,2,300,Card
+2025-02-17,Paneer Tikka,4,180,Cash
+2025-02-16,Samosa,1,50,Card
+2025-02-20,Samosa,2,50,Cash
+2025-02-20,Tandoori Chicken,3,300,Online
+2025-02-14,Lassi,3,60,UPI
+2025-02-09,Veg Dum Biryani,4,220,Card
+2025-02-22,Gulab Jamun,3,80,UPI
+2025-02-01,Masala Dosa,1,130,Online
+2025-02-20,Butter Naan,5,40,Online
+2025-02-16,Paneer Tikka,1,180,Cash
+2025-02-21,Veg Dum Biryani,3,220,Online
+2025-02-21,Paneer Tikka,3,180,Online
+2025-02-17,Tandoori Chicken,2,300,Card
+2025-02-13,Veg Momo,5,100,Online
+2025-02-24,Samosa,2,50,Cash
+2025-02-10,Samosa,4,50,Online
+2025-02-13,Chicken Biryani,4,250,Cash
+2025-02-27,Masala Dosa,5,130,Card
+2025-02-22,Veg Dum Biryani,2,220,UPI
+2025-02-17,Samosa,3,50,Online
+2025-02-06,Spring Roll,5,150,Online
+2025-02-05,Chicken Momo,4,120,Online
+2025-02-25,Lassi,5,60,Card
+2025-02-21,Samosa,3,50,Cash
+2025-02-08,Tandoori Chicken,3,300,Online
+2025-02-12,Chicken Biryani,3,250,Online
+2025-02-15,Masala Dosa,3,130,Cash
+2025-02-28,Gulab Jamun,1,80,Cash
+2025-02-17,Gulab Jamun,2,80,Cash
+2025-02-17,Samosa,4,50,Online
+2025-02-28,Chicken Biryani,1,250,Card
+2025-02-11,Spring Roll,2,150,UPI
+2025-02-05,Masala Dosa,4,130,Online
+2025-02-25,Lassi,2,60,Cash
+2025-02-21,Gulab Jamun,3,80,Card
+2025-02-01,Veg Dum Biryani,1,220,UPI
+2025-02-25,Paneer Tikka,2,180,Card
+2025-02-16,Masala Dosa,2,130,Cash
+2025-02-14,Spring Roll,5,150,UPI
+2025-02-16,Chicken Biryani,4,250,UPI
+2025-02-18,Veg Momo,1,100,Card
+2025-02-01,Lassi,3,60,Online
+2025-02-01,Butter Naan,2,40,Cash
+2025-02-08,Samosa,2,50,Online
+2025-02-04,Paneer Tikka,2,180,UPI
+2025-02-10,Butter Naan,5,40,Card
+2025-02-10,Chicken Momo,1,120,Online
+2025-02-20,Gulab Jamun,5,80,Online
+2025-02-11,Chicken Biryani,2,250,UPI
+2025-02-06,Veg Dum Biryani,2,220,UPI
+2025-02-08,Veg Momo,2,100,Card
+2025-02-19,Tandoori Chicken,1,300,Card
+2025-02-23,Chicken Momo,3,120,Cash
+2025-02-25,Chicken Biryani,3,250,Cash
+2025-02-22,Masala Dosa,1,130,Cash
+2025-02-02,Samosa,1,50,Cash
+2025-02-13,Chicken Biryani,4,250,Cash
+2025-02-16,Butter Naan,3,40,Card
+2025-02-10,Tandoori Chicken,1,300,UPI
+2025-02-22,Samosa,1,50,Online
+2025-02-23,Masala Dosa,5,130,Card
+2025-02-17,Chicken Biryani,1,250,Cash
+2025-02-26,Paneer Tikka,1,180,Cash
+2025-02-20,Gulab Jamun,2,80,Card
+2025-02-07,Paneer Tikka,5,180,Online
+2025-02-10,Lassi,4,60,Card
+2025-02-16,Veg Momo,5,100,Card
+2025-02-11,Lassi,4,60,Card
+2025-02-22,Veg Momo,1,100,Cash
+2025-02-22,Chicken Momo,5,120,UPI
+2025-02-25,Spring Roll,1,150,Cash
+2025-03-01,Lassi,1,60,Online
+2025-02-15,Samosa,2,50,Online
+2025-02-02,Paneer Tikka,4,180,Cash
+2025-02-28,Spring Roll,1,150,Online
+2025-02-14,Veg Dum Biryani,3,220,Cash
+2025-02-01,Chicken Momo,1,120,Card
+2025-02-11,Samosa,2,50,Online
+2025-02-09,Gulab Jamun,5,80,Cash
+2025-02-06,Veg Dum Biryani,3,220,Cash
+2025-02-15,Chicken Biryani,4,250,Online
+2025-02-26,Chicken Biryani,4,250,UPI
+2025-02-04,Samosa,2,50,Card
+2025-02-28,Lassi,1,60,Card
+2025-03-02,Chicken Momo,4,120,UPI
+2025-03-13,Spring Roll,5,150,Online
+2025-03-28,Masala Dosa,1,130,Card
+2025-03-04,Gulab Jamun,4,80,UPI
+2025-03-03,Gulab Jamun,1,80,Online
+2025-03-01,Samosa,3,50,Card
+2025-03-17,Samosa,3,50,Cash
+2025-03-16,Chicken Biryani,2,250,Online
+2025-03-05,Samosa,4,50,Cash
+2025-03-17,Veg Momo,2,100,UPI
+2025-03-03,Gulab Jamun,2,80,UPI
+2025-03-11,Veg Dum Biryani,2,220,Online
+2025-03-08,Veg Momo,5,100,UPI
+2025-03-03,Chicken Biryani,2,250,UPI
+2025-03-15,Gulab Jamun,5,80,Cash
+2025-03-11,Gulab Jamun,4,80,Cash
+2025-03-04,Gulab Jamun,1,80,UPI
+2025-03-18,Chicken Biryani,1,250,Cash
+2025-03-20,Chicken Momo,5,120,Online
+2025-03-07,Butter Naan,5,40,UPI
+2025-03-27,Veg Dum Biryani,3,220,Cash
+2025-03-11,Tandoori Chicken,4,300,UPI
+2025-03-23,Lassi,3,60,UPI
+2025-03-25,Chicken Momo,1,120,Card
+2025-03-12,Veg Momo,3,100,Online
+2025-03-12,Butter Naan,5,40,Cash
+2025-03-16,Veg Momo,2,100,Card
+2025-03-04,Lassi,4,60,Online
+2025-03-07,Masala Dosa,2,130,Cash
+2025-03-15,Chicken Biryani,2,250,Card
+2025-03-04,Lassi,3,60,UPI
+2025-03-04,Veg Momo,5,100,UPI
+2025-03-17,Gulab Jamun,5,80,Card
+2025-03-17,Gulab Jamun,1,80,Cash
+2025-03-27,Butter Naan,4,40,UPI
+2025-03-23,Butter Naan,2,40,Card
+2025-03-04,Lassi,2,60,UPI
+2025-03-20,Samosa,5,50,Online
+2025-03-14,Butter Naan,4,40,Card
+2025-03-11,Paneer Tikka,4,180,Online
+2025-03-05,Gulab Jamun,2,80,UPI
+2025-03-10,Masala Dosa,5,130,Online
+2025-03-21,Lassi,5,60,Card
+2025-03-20,Tandoori Chicken,2,300,Online
+2025-03-30,Samosa,3,50,Card
+2025-03-17,Lassi,2,60,Online
+2025-03-25,Lassi,1,60,Online
+2025-03-19,Butter Naan,4,40,UPI
+2025-03-10,Samosa,5,50,UPI
+2025-03-04,Veg Momo,5,100,Cash
+2025-03-02,Chicken Biryani,2,250,Cash
+2025-03-25,Tandoori Chicken,3,300,Card
+2025-03-05,Paneer Tikka,3,180,Cash
+2025-03-07,Lassi,3,60,Cash
+2025-03-04,Veg Dum Biryani,4,220,Card
+2025-03-13,Lassi,5,60,Card
+2025-03-23,Butter Naan,3,40,Cash
+2025-03-14,Chicken Biryani,4,250,Online
+2025-03-01,Butter Naan,1,40,Online
+2025-03-28,Tandoori Chicken,5,300,UPI
+2025-03-25,Tandoori Chicken,3,300,Card
+2025-03-10,Lassi,2,60,UPI
+2025-03-06,Spring Roll,1,150,Card
+2025-03-04,Lassi,5,60,UPI
+2025-03-09,Veg Momo,4,100,Online
+2025-03-19,Spring Roll,2,150,Online
+2025-03-15,Veg Momo,3,100,Card
+2025-03-30,Veg Momo,2,100,Online
+2025-03-25,Masala Dosa,1,130,Online
+2025-03-18,Gulab Jamun,5,80,Online
+2025-03-17,Chicken Momo,3,120,Card
+2025-03-03,Spring Roll,5,150,Card
+2025-03-18,Chicken Biryani,5,250,UPI
+2025-03-08,Chicken Momo,3,120,Card
+2025-03-11,Samosa,3,50,Online
+2025-03-25,Paneer Tikka,2,180,UPI
+2025-03-04,Butter Naan,1,40,Online
+2025-03-29,Gulab Jamun,2,80,Card
+2025-03-13,Veg Momo,3,100,Cash
+2025-03-18,Chicken Biryani,3,250,Online
+2025-03-27,Veg Momo,5,100,Online
+2025-03-15,Butter Naan,5,40,UPI
+2025-03-29,Veg Momo,3,100,Card
+2025-03-03,Veg Dum Biryani,5,220,Cash
+2025-03-18,Spring Roll,5,150,Cash
+2025-03-07,Samosa,1,50,Card
+2025-03-27,Samosa,4,50,Cash
+2025-03-27,Tandoori Chicken,5,300,UPI
+2025-03-24,Samosa,1,50,Card
+2025-03-23,Veg Momo,4,100,Online
+2025-03-03,Veg Momo,1,100,Cash
+2025-03-18,Spring Roll,3,150,Cash
+2025-03-30,Masala Dosa,2,130,Online
+2025-03-15,Chicken Biryani,4,250,UPI
+2025-03-01,Chicken Biryani,3,250,UPI
+2025-03-18,Samosa,1,50,Cash
+2025-03-03,Samosa,5,50,Cash
+2025-03-12,Lassi,1,60,Cash
+2025-03-20,Paneer Tikka,3,180,Cash
+2025-03-13,Paneer Tikka,4,180,UPI
+2025-03-16,Samosa,1,50,Card
+2025-03-05,Butter Naan,2,40,UPI
+2025-03-21,Butter Naan,3,40,Card
+2025-03-01,Paneer Tikka,3,180,Card
+2025-03-01,Chicken Momo,1,120,UPI
+2025-03-03,Butter Naan,5,40,Online
+2025-03-07,Tandoori Chicken,3,300,UPI
+2025-03-05,Samosa,5,50,Card
+2025-03-20,Spring Roll,2,150,Online
+2025-03-06,Tandoori Chicken,1,300,Cash
+2025-03-21,Butter Naan,4,40,Cash
+2025-03-09,Paneer Tikka,1,180,Cash
+2025-03-16,Tandoori Chicken,5,300,Online
+2025-03-22,Veg Dum Biryani,2,220,Card
+2025-03-20,Chicken Momo,3,120,Cash
+2025-03-16,Tandoori Chicken,3,300,UPI
+2025-03-22,Veg Dum Biryani,5,220,Online
+2025-03-05,Lassi,5,60,Online
+2025-03-06,Veg Dum Biryani,4,220,Cash
+2025-03-26,Veg Dum Biryani,2,220,Card
+2025-03-09,Lassi,4,60,Online
+2025-03-29,Spring Roll,3,150,UPI
+2025-03-12,Gulab Jamun,4,80,Online
+2025-03-04,Gulab Jamun,5,80,Card
+2025-03-03,Samosa,5,50,Online
+2025-03-07,Spring Roll,5,150,Online
+2025-03-24,Lassi,1,60,Cash
+2025-03-21,Veg Momo,5,100,Cash
+2025-03-13,Masala Dosa,5,130,Card
+2025-03-09,Veg Momo,5,100,UPI
+2025-03-12,Samosa,2,50,UPI
+2025-03-24,Tandoori Chicken,5,300,Online
+2025-03-17,Spring Roll,4,150,Cash
+2025-03-17,Chicken Biryani,3,250,Cash
+2025-03-28,Samosa,2,50,Card
+2025-03-15,Butter Naan,2,40,Card
+2025-03-19,Spring Roll,5,150,Card
+2025-03-12,Lassi,4,60,Cash
+2025-03-08,Tandoori Chicken,4,300,Cash
+2025-03-08,Paneer Tikka,3,180,Cash
+2025-03-17,Samosa,2,50,Online
+2025-03-30,Chicken Biryani,4,250,UPI
+2025-03-21,Veg Momo,1,100,Online
+2025-03-21,Chicken Momo,5,120,Online
+2025-03-19,Lassi,3,60,Card
+2025-03-12,Chicken Biryani,4,250,Cash
+2025-03-13,Butter Naan,3,40,Card
+2025-03-12,Butter Naan,4,40,Online
+2025-03-29,Gulab Jamun,4,80,Cash
+2025-03-15,Butter Naan,2,40,Card
+2025-03-17,Tandoori Chicken,1,300,Online
+2025-03-06,Tandoori Chicken,2,300,Card
+2025-03-23,Veg Dum Biryani,5,220,Cash
+2025-03-14,Samosa,2,50,Online
+2025-03-16,Lassi,1,60,UPI
+2025-03-19,Gulab Jamun,2,80,Card
+2025-03-01,Samosa,4,50,Card
+2025-03-19,Veg Momo,2,100,Card
+2025-03-02,Spring Roll,5,150,Card
+2025-03-09,Veg Momo,2,100,Card
+2025-03-20,Butter Naan,4,40,Cash
+2025-03-03,Lassi,3,60,Card
+2025-03-16,Gulab Jamun,5,80,UPI
+2025-03-27,Spring Roll,2,150,UPI
+2025-03-26,Masala Dosa,2,130,Card
+2025-03-09,Masala Dosa,5,130,Card
+2025-03-30,Lassi,3,60,UPI
+2025-03-03,Masala Dosa,5,130,Card
+2025-03-05,Chicken Biryani,4,250,Cash
+2025-03-17,Veg Momo,2,100,UPI
+2025-03-04,Spring Roll,5,150,Card
+2025-03-20,Gulab Jamun,5,80,Cash
+2025-03-25,Butter Naan,5,40,Cash
+2025-03-22,Chicken Momo,4,120,Card
+2025-03-27,Masala Dosa,5,130,Cash
+2025-03-17,Samosa,4,50,UPI
+2025-03-23,Veg Dum Biryani,1,220,UPI
+2025-03-26,Tandoori Chicken,4,300,UPI
+2025-03-26,Veg Dum Biryani,5,220,Cash
+2025-03-09,Chicken Biryani,2,250,UPI
+2025-03-10,Tandoori Chicken,1,300,UPI
+2025-03-01,Paneer Tikka,2,180,Cash
+2025-03-04,Masala Dosa,5,130,Cash
+2025-03-23,Chicken Biryani,2,250,Online
+2025-03-04,Chicken Biryani,3,250,Card
+2025-03-09,Chicken Biryani,5,250,Online
+2025-03-19,Butter Naan,4,40,Online
+2025-03-22,Masala Dosa,3,130,UPI
+2025-03-18,Tandoori Chicken,4,300,UPI
+2025-03-18,Spring Roll,3,150,UPI
+2025-03-19,Paneer Tikka,3,180,Online
+2025-03-24,Lassi,4,60,Card
+2025-03-24,Samosa,1,50,Card
+2025-03-04,Gulab Jamun,2,80,Card
+2025-03-26,Butter Naan,4,40,Online
+2025-03-23,Butter Naan,5,40,Cash
+2025-03-21,Spring Roll,4,150,Cash
+2025-03-16,Chicken Momo,2,120,UPI
+2025-03-09,Chicken Momo,1,120,Card
+2025-03-20,Veg Dum Biryani,1,220,Cash
+2025-03-30,Lassi,4,60,UPI
+2025-03-10,Masala Dosa,5,130,Cash
+2025-03-15,Spring Roll,4,150,Cash
+2025-03-10,Tandoori Chicken,5,300,Card
+2025-03-17,Veg Momo,5,100,Card
+2025-03-22,Masala Dosa,2,130,Cash
+2025-03-21,Veg Dum Biryani,2,220,Cash
+2025-03-09,Spring Roll,1,150,UPI
+2025-03-13,Veg Dum Biryani,4,220,Card
+2025-03-24,Butter Naan,1,40,Cash
+2025-03-10,Chicken Momo,5,120,Online
+2025-03-08,Veg Dum Biryani,3,220,Card
+2025-03-19,Gulab Jamun,4,80,Cash
+2025-03-14,Paneer Tikka,2,180,Cash
+2025-03-17,Butter Naan,1,40,Online
+2025-03-26,Veg Dum Biryani,1,220,Online
+2025-03-09,Butter Naan,5,40,UPI
+2025-03-16,Chicken Biryani,5,250,Card
+2025-03-22,Veg Dum Biryani,4,220,UPI
+2025-03-16,Masala Dosa,1,130,Cash
+2025-03-13,Paneer Tikka,1,180,Card
+2025-03-26,Samosa,2,50,Online
+2025-03-17,Chicken Biryani,3,250,Cash
+2025-03-08,Lassi,3,60,Online
+2025-03-22,Chicken Momo,4,120,Online
+2025-03-30,Chicken Momo,5,120,Card
+2025-03-12,Gulab Jamun,3,80,Card
+2025-03-06,Masala Dosa,3,130,Card
+2025-03-08,Gulab Jamun,2,80,Card
+2025-03-08,Paneer Tikka,2,180,Card
+2025-03-12,Tandoori Chicken,5,300,Card
+2025-03-30,Chicken Momo,1,120,Cash
+2025-03-20,Samosa,4,50,Cash
+2025-03-28,Butter Naan,1,40,UPI
+2025-03-11,Veg Dum Biryani,5,220,UPI
+2025-03-16,Masala Dosa,3,130,Card
+2025-03-13,Butter Naan,3,40,Card
+2025-03-02,Masala Dosa,2,130,UPI
+2025-03-02,Gulab Jamun,5,80,Online
+2025-03-15,Chicken Biryani,2,250,Cash
+2025-03-15,Lassi,5,60,Online
+2025-03-01,Lassi,1,60,Card
+2025-03-04,Chicken Biryani,5,250,Online
+2025-03-28,Veg Dum Biryani,5,220,Online
+2025-03-09,Spring Roll,5,150,Card
+2025-03-20,Paneer Tikka,4,180,Online
+2025-03-16,Veg Dum Biryani,2,220,UPI
+2025-03-23,Tandoori Chicken,4,300,Online
+2025-03-09,Veg Dum Biryani,4,220,UPI
+2025-03-05,Spring Roll,5,150,Card
+2025-03-26,Chicken Momo,3,120,Card
+2025-03-28,Butter Naan,4,40,UPI
+2025-03-26,Tandoori Chicken,2,300,Card
+2025-03-06,Gulab Jamun,1,80,UPI
+2025-03-29,Gulab Jamun,2,80,Online
+2025-03-09,Gulab Jamun,3,80,Cash
+2025-03-23,Chicken Biryani,1,250,Card
+2025-03-27,Veg Momo,2,100,Online
+2025-03-15,Gulab Jamun,1,80,Online
+2025-03-12,Paneer Tikka,3,180,Online
+2025-03-14,Veg Dum Biryani,1,220,Cash
+2025-03-07,Veg Dum Biryani,5,220,Card
+2025-03-11,Paneer Tikka,3,180,UPI
+2025-03-29,Lassi,4,60,Cash
+2025-03-10,Chicken Biryani,5,250,UPI
+2025-03-28,Samosa,2,50,Card
+2025-03-14,Samosa,3,50,UPI
+2025-03-06,Chicken Momo,1,120,Online
+2025-03-11,Tandoori Chicken,3,300,Online
+2025-03-20,Lassi,3,60,UPI
+2025-03-25,Paneer Tikka,4,180,Online
+2025-03-17,Lassi,5,60,UPI
+2025-03-06,Chicken Biryani,2,250,Cash
+2025-03-22,Spring Roll,2,150,Online
+2025-03-07,Lassi,1,60,Card
+2025-03-04,Chicken Biryani,1,250,Cash
+2025-03-02,Gulab Jamun,5,80,Cash
+2025-03-25,Chicken Biryani,5,250,Cash
+2025-03-20,Chicken Momo,3,120,Card
+2025-03-10,Chicken Momo,4,120,Card
+2025-03-15,Tandoori Chicken,3,300,Card
+2025-03-27,Spring Roll,5,150,Card
+2025-03-22,Veg Momo,1,100,Online
+2025-03-15,Veg Dum Biryani,4,220,Online
+2025-03-05,Butter Naan,4,40,Card
+2025-03-15,Masala Dosa,5,130,UPI
+2025-03-10,Butter Naan,5,40,Online
+2025-03-08,Gulab Jamun,5,80,Cash
+2025-03-12,Gulab Jamun,3,80,UPI
+2025-03-10,Paneer Tikka,2,180,Cash
+2025-03-27,Veg Momo,5,100,Card
+2025-03-16,Veg Dum Biryani,3,220,Cash
+2025-03-25,Lassi,4,60,UPI
+2025-03-25,Paneer Tikka,1,180,UPI
+2025-03-08,Paneer Tikka,5,180,Cash
+2025-03-07,Butter Naan,3,40,UPI
+2025-03-13,Butter Naan,4,40,Card
+2025-03-27,Spring Roll,4,150,UPI
+2025-03-03,Tandoori Chicken,3,300,UPI
+2025-03-17,Samosa,2,50,Online
+2025-03-26,Paneer Tikka,5,180,Online
+2025-03-28,Chicken Biryani,2,250,Cash
+2025-03-10,Spring Roll,2,150,Cash
+2025-03-20,Samosa,4,50,UPI
+2025-03-16,Paneer Tikka,5,180,Card
+2025-03-05,Veg Dum Biryani,1,220,Cash
+2025-03-06,Butter Naan,1,40,Cash
+2025-03-05,Paneer Tikka,3,180,UPI
+2025-03-08,Lassi,1,60,Cash
+2025-03-16,Spring Roll,1,150,Card
+2025-03-10,Veg Dum Biryani,4,220,UPI
+2025-03-23,Veg Dum Biryani,4,220,Cash
+2025-03-27,Veg Dum Biryani,1,220,Card
+2025-03-25,Veg Momo,3,100,UPI
+2025-03-16,Chicken Momo,5,120,Card
+2025-03-27,Tandoori Chicken,3,300,UPI
+2025-03-25,Veg Momo,1,100,Card
+2025-03-08,Chicken Biryani,4,250,Cash
+2025-03-24,Tandoori Chicken,4,300,Cash
+2025-03-16,Butter Naan,2,40,UPI
+2025-03-30,Samosa,3,50,Online
+2025-03-24,Spring Roll,1,150,Cash
+2025-03-21,Paneer Tikka,4,180,Online
+2025-03-29,Tandoori Chicken,3,300,Cash
+2025-03-04,Samosa,2,50,Card
+2025-03-11,Samosa,4,50,Cash
+2025-03-19,Spring Roll,3,150,Cash
+2025-03-01,Chicken Biryani,2,250,Cash
+2025-03-23,Masala Dosa,4,130,Card
+2025-03-08,Veg Dum Biryani,1,220,Card
+2025-03-22,Gulab Jamun,1,80,Online
+2025-03-02,Samosa,1,50,Online
+2025-03-23,Samosa,2,50,Cash
+2025-03-08,Spring Roll,4,150,Online
+2025-03-26,Butter Naan,3,40,UPI
+2025-03-01,Lassi,2,60,UPI
+2025-03-09,Veg Dum Biryani,2,220,Cash
+2025-03-18,Gulab Jamun,4,80,Online
+2025-03-07,Butter Naan,4,40,Card
+2025-03-11,Butter Naan,3,40,UPI
+2025-03-30,Paneer Tikka,5,180,Card
+2025-03-05,Chicken Momo,5,120,UPI
+2025-03-18,Paneer Tikka,3,180,Online
+2025-03-25,Gulab Jamun,1,80,UPI
+2025-03-29,Lassi,2,60,Cash
+2025-03-25,Masala Dosa,3,130,Card
+2025-03-22,Veg Dum Biryani,1,220,UPI
+2025-03-22,Tandoori Chicken,5,300,UPI
+2025-03-20,Butter Naan,2,40,Online
+2025-03-21,Veg Dum Biryani,4,220,Online
+2025-03-17,Chicken Momo,1,120,Cash
+2025-03-06,Veg Momo,2,100,Cash
+2025-03-16,Tandoori Chicken,1,300,Card
+2025-03-19,Chicken Momo,1,120,UPI
+2025-03-17,Samosa,4,50,Online
+2025-03-08,Veg Momo,3,100,Cash
+2025-03-21,Veg Momo,2,100,UPI
+2025-03-26,Chicken Momo,4,120,Cash
+2025-03-24,Veg Dum Biryani,5,220,UPI
+2025-03-27,Veg Dum Biryani,1,220,Online
+2025-03-24,Butter Naan,1,40,Cash
+2025-03-07,Paneer Tikka,1,180,Cash
+2025-03-18,Chicken Momo,2,120,UPI
+2025-03-17,Tandoori Chicken,2,300,Card
+2025-03-18,Masala Dosa,2,130,UPI
+2025-03-25,Lassi,1,60,Online
+2025-03-23,Samosa,4,50,UPI
+2025-03-26,Chicken Momo,2,120,Card
+2025-03-17,Butter Naan,4,40,Online
+2025-03-18,Samosa,2,50,UPI
+2025-03-18,Veg Dum Biryani,3,220,Online
+2025-03-25,Veg Dum Biryani,4,220,UPI
+2025-03-20,Lassi,3,60,Card
+2025-03-07,Masala Dosa,5,130,UPI
+2025-03-12,Butter Naan,3,40,UPI
+2025-03-01,Gulab Jamun,4,80,Cash
+2025-03-01,Paneer Tikka,5,180,Card
+2025-03-10,Paneer Tikka,1,180,Card
+2025-03-01,Tandoori Chicken,3,300,Online
+2025-03-18,Butter Naan,5,40,Card
+2025-03-15,Chicken Momo,1,120,Online
+2025-03-09,Spring Roll,2,150,Online
+2025-03-08,Masala Dosa,2,130,Online
+2025-03-19,Paneer Tikka,1,180,UPI
+2025-03-24,Masala Dosa,2,130,Cash
+2025-03-26,Lassi,3,60,UPI
+2025-03-27,Spring Roll,4,150,Cash
+2025-03-02,Masala Dosa,3,130,UPI
+2025-03-30,Chicken Momo,1,120,Online
+2025-03-14,Veg Dum Biryani,4,220,Cash
+2025-03-30,Tandoori Chicken,5,300,Cash
+2025-03-02,Samosa,4,50,Online
+2025-03-11,Butter Naan,1,40,Card
+2025-03-23,Veg Dum Biryani,5,220,Card
+2025-03-22,Spring Roll,1,150,UPI
+2025-03-19,Gulab Jamun,5,80,Cash
+2025-03-10,Tandoori Chicken,4,300,UPI
+2025-03-11,Spring Roll,2,150,Cash
+2025-03-24,Gulab Jamun,5,80,Cash
+2025-03-09,Butter Naan,4,40,Cash
+2025-03-14,Chicken Biryani,5,250,Card
+2025-03-18,Spring Roll,4,150,Card
+2025-03-21,Gulab Jamun,4,80,Card
+2025-03-24,Butter Naan,5,40,Card
+2025-03-09,Tandoori Chicken,1,300,UPI
+2025-03-03,Veg Dum Biryani,5,220,Cash
+2025-03-14,Samosa,4,50,Online
+2025-03-11,Veg Dum Biryani,2,220,Online
+2025-03-25,Masala Dosa,1,130,Online
+2025-03-20,Spring Roll,3,150,UPI
+2025-03-15,Masala Dosa,2,130,Cash
+2025-03-22,Tandoori Chicken,2,300,Online
+2025-03-04,Spring Roll,1,150,Cash
+2025-03-30,Tandoori Chicken,5,300,Card
+2025-03-11,Paneer Tikka,1,180,Cash
+2025-03-16,Paneer Tikka,4,180,Cash
+2025-03-24,Veg Dum Biryani,2,220,Card
+2025-03-17,Tandoori Chicken,5,300,Online
+2025-03-20,Butter Naan,4,40,Card
+2025-03-13,Lassi,1,60,Cash
+2025-03-02,Paneer Tikka,2,180,Online
+2025-03-09,Tandoori Chicken,5,300,Cash
+2025-03-03,Gulab Jamun,1,80,UPI
+2025-03-22,Samosa,3,50,Online
+2025-03-10,Chicken Momo,1,120,UPI
+2025-03-17,Tandoori Chicken,4,300,Cash
+2025-03-28,Veg Dum Biryani,4,220,Cash
+2025-03-17,Spring Roll,2,150,UPI
+2025-03-02,Butter Naan,1,40,Card
+2025-03-11,Butter Naan,3,40,UPI
+2025-03-01,Chicken Biryani,2,250,Online
+2025-03-12,Samosa,3,50,Online
+2025-03-09,Tandoori Chicken,5,300,Cash
+2025-03-29,Samosa,3,50,UPI
+2025-03-09,Veg Momo,5,100,Card
+2025-03-29,Spring Roll,3,150,UPI
+2025-03-03,Samosa,2,50,UPI
+2025-03-28,Butter Naan,5,40,Card
+2025-03-19,Chicken Biryani,2,250,Card
+2025-03-30,Chicken Biryani,3,250,Online
+2025-03-05,Gulab Jamun,5,80,Card
+2025-03-19,Samosa,2,50,Card
+2025-03-23,Spring Roll,3,150,Card
+2025-03-21,Chicken Biryani,2,250,Card
+2025-03-18,Veg Dum Biryani,1,220,Cash
+2025-03-27,Spring Roll,3,150,Card
+2025-03-25,Lassi,1,60,Online
+2025-03-10,Chicken Biryani,4,250,UPI
+2025-03-05,Lassi,3,60,Card
+2025-03-06,Chicken Momo,2,120,Cash
+2025-03-09,Masala Dosa,5,130,Card
+2025-03-08,Masala Dosa,2,130,Cash
+2025-03-23,Veg Dum Biryani,1,220,UPI
+2025-03-28,Spring Roll,5,150,UPI
+2025-03-06,Lassi,3,60,UPI
+2025-03-05,Gulab Jamun,4,80,Card
+2025-03-02,Tandoori Chicken,2,300,UPI
+2025-03-14,Veg Momo,3,100,Card
+2025-03-25,Lassi,2,60,Card
+2025-03-30,Chicken Momo,2,120,UPI
+2025-03-23,Masala Dosa,4,130,Online
+2025-03-14,Gulab Jamun,2,80,UPI
+2025-03-24,Veg Momo,5,100,UPI
+2025-03-13,Lassi,3,60,Cash
+2025-03-15,Butter Naan,1,40,UPI
+2025-03-17,Veg Momo,2,100,UPI
+2025-03-18,Lassi,1,60,UPI
+2025-03-07,Butter Naan,1,40,Online
+2025-03-29,Gulab Jamun,4,80,Online
+2025-03-06,Paneer Tikka,4,180,UPI
+2025-03-30,Paneer Tikka,5,180,Cash
+2025-03-29,Lassi,5,60,Card
+2025-03-03,Gulab Jamun,4,80,Cash
+2025-03-29,Spring Roll,5,150,Card
+2025-03-11,Chicken Biryani,4,250,UPI
+2025-03-15,Veg Momo,2,100,Card
+2025-03-09,Gulab Jamun,1,80,Online
+2025-03-23,Lassi,2,60,Cash
+2025-03-23,Chicken Momo,1,120,UPI
+2025-03-03,Samosa,3,50,UPI
+2025-03-20,Lassi,5,60,Card
+2025-03-13,Chicken Biryani,5,250,Cash
+2025-03-19,Spring Roll,3,150,Card
+2025-03-06,Spring Roll,2,150,Cash
+2025-03-10,Chicken Biryani,3,250,UPI
+2025-03-04,Paneer Tikka,2,180,Card
+2025-03-20,Tandoori Chicken,1,300,Online
+2025-03-16,Veg Momo,4,100,UPI
+2025-03-20,Butter Naan,1,40,UPI
+2025-03-19,Tandoori Chicken,2,300,UPI
+2025-03-15,Gulab Jamun,4,80,Cash
+2025-03-01,Masala Dosa,5,130,Card
+2025-03-20,Butter Naan,3,40,Card
+2025-03-05,Veg Momo,2,100,Cash
+2025-03-02,Samosa,3,50,Card
+2025-03-27,Veg Momo,5,100,Online
+2025-03-02,Veg Dum Biryani,1,220,Cash
+2025-03-06,Chicken Biryani,2,250,Online
+2025-03-19,Masala Dosa,5,130,Card
+2025-03-12,Gulab Jamun,5,80,Cash
+2025-03-11,Chicken Momo,3,120,Online
+2025-03-25,Chicken Biryani,1,250,UPI
+2025-03-10,Butter Naan,1,40,UPI
+2025-03-23,Spring Roll,1,150,Online
+2025-03-14,Veg Dum Biryani,5,220,Card
+2025-03-20,Lassi,2,60,Cash
+2025-03-24,Chicken Momo,5,120,Cash
+2025-03-30,Gulab Jamun,5,80,Online
+2025-03-28,Chicken Biryani,5,250,Online
+2025-03-19,Paneer Tikka,5,180,Online
+2025-03-19,Spring Roll,5,150,UPI
+2025-03-16,Butter Naan,4,40,Card
+2025-03-23,Masala Dosa,2,130,Online
+2025-03-04,Tandoori Chicken,1,300,Cash
+2025-03-24,Gulab Jamun,1,80,Card
+2025-03-14,Masala Dosa,4,130,Cash
+2025-03-18,Veg Dum Biryani,3,220,Card
+2025-03-23,Veg Momo,2,100,Online
+2025-03-10,Paneer Tikka,1,180,Online
+2025-03-11,Butter Naan,5,40,Cash
+2025-03-11,Chicken Momo,3,120,UPI
+2025-03-20,Lassi,5,60,Cash
+2025-03-11,Spring Roll,2,150,Online
+2025-03-30,Samosa,4,50,UPI
+2025-03-16,Veg Momo,2,100,Card
+2025-03-29,Samosa,4,50,Online
+2025-03-30,Gulab Jamun,4,80,Cash
+2025-03-19,Butter Naan,3,40,Online
+2025-03-01,Butter Naan,5,40,Card
+2025-03-26,Masala Dosa,3,130,Online
+2025-03-09,Chicken Momo,2,120,Cash
+2025-03-21,Veg Dum Biryani,4,220,Card
+2025-03-13,Masala Dosa,5,130,Card
+2025-03-28,Masala Dosa,1,130,Online
+2025-03-23,Lassi,3,60,Cash
+2025-03-03,Paneer Tikka,4,180,UPI
+2025-03-15,Tandoori Chicken,3,300,Online
+2025-03-10,Tandoori Chicken,5,300,Card
+2025-03-26,Chicken Momo,3,120,Cash
+2025-03-15,Tandoori Chicken,1,300,Cash
+2025-03-05,Gulab Jamun,5,80,Card
+2025-03-24,Veg Dum Biryani,4,220,Online
+2025-03-25,Veg Dum Biryani,2,220,Cash
+2025-03-07,Butter Naan,2,40,Cash
+2025-03-23,Gulab Jamun,4,80,Cash
+2025-03-30,Veg Momo,3,100,Cash
+2025-03-28,Samosa,5,50,Cash
+2025-03-29,Veg Dum Biryani,4,220,Cash
+2025-03-25,Chicken Momo,5,120,Online
+2025-03-25,Veg Momo,5,100,Online
+2025-03-11,Samosa,2,50,Card
+2025-03-09,Tandoori Chicken,3,300,Online
+2025-03-09,Gulab Jamun,1,80,Card
+2025-03-04,Spring Roll,3,150,Cash
+2025-03-17,Masala Dosa,5,130,Cash
+2025-03-12,Tandoori Chicken,5,300,Online
+2025-03-23,Paneer Tikka,2,180,Online
+2025-03-06,Masala Dosa,2,130,Cash
+2025-03-29,Paneer Tikka,5,180,Online
+2025-03-02,Butter Naan,4,40,Card
+2025-03-29,Veg Momo,4,100,Cash
+2025-03-02,Chicken Momo,4,120,Cash
+2025-03-06,Chicken Biryani,4,250,UPI
+2025-03-10,Masala Dosa,3,130,Online
+2025-03-03,Tandoori Chicken,5,300,UPI
+2025-03-03,Masala Dosa,2,130,UPI
+2025-03-10,Chicken Momo,4,120,UPI
+2025-03-08,Gulab Jamun,2,80,Card
+2025-03-30,Masala Dosa,3,130,Online
+2025-03-23,Chicken Biryani,2,250,Online
+2025-03-16,Veg Dum Biryani,4,220,Cash
+2025-03-04,Chicken Momo,4,120,Online
+2025-03-28,Gulab Jamun,4,80,Card
+2025-03-20,Paneer Tikka,3,180,Card
+2025-03-13,Butter Naan,1,40,Cash
+2025-03-21,Veg Dum Biryani,5,220,Cash
+2025-03-15,Paneer Tikka,5,180,UPI
+2025-03-08,Masala Dosa,4,130,Card
+2025-03-16,Butter Naan,2,40,UPI
+2025-03-07,Chicken Momo,3,120,UPI
+2025-03-26,Chicken Biryani,5,250,Online
+2025-03-06,Butter Naan,2,40,Cash
+2025-03-27,Lassi,5,60,UPI
+2025-03-20,Chicken Momo,5,120,UPI
+2025-03-04,Veg Dum Biryani,5,220,UPI
+2025-03-13,Spring Roll,3,150,Cash
+2025-03-22,Masala Dosa,1,130,UPI
+2025-03-21,Veg Dum Biryani,4,220,Cash
+2025-03-27,Chicken Momo,2,120,Card
+2025-03-25,Masala Dosa,1,130,Card
+2025-03-15,Samosa,2,50,Online
+2025-03-19,Chicken Biryani,5,250,UPI
+2025-03-22,Tandoori Chicken,2,300,Online
+2025-03-26,Paneer Tikka,5,180,Online
+2025-03-03,Chicken Biryani,3,250,Cash
+2025-03-13,Masala Dosa,5,130,Card
+2025-03-12,Paneer Tikka,1,180,Cash
+2025-03-27,Veg Momo,5,100,Online
+2025-03-28,Chicken Momo,3,120,Cash
+2025-03-23,Tandoori Chicken,4,300,UPI
+2025-03-23,Samosa,3,50,UPI
+2025-03-14,Chicken Biryani,4,250,Card
+2025-03-16,Samosa,2,50,Card
+2025-03-13,Tandoori Chicken,5,300,Online
+2025-03-10,Chicken Biryani,2,250,Card
+2025-03-03,Spring Roll,1,150,Cash
+2025-03-22,Spring Roll,4,150,UPI
+2025-03-05,Spring Roll,1,150,UPI
+2025-03-30,Gulab Jamun,5,80,UPI
+2025-03-15,Masala Dosa,2,130,UPI
+2025-03-13,Butter Naan,4,40,Online
+2025-03-14,Tandoori Chicken,2,300,Cash
+2025-03-28,Masala Dosa,4,130,Card
+2025-03-09,Lassi,5,60,UPI
+2025-03-12,Butter Naan,5,40,Cash
+2025-03-16,Veg Momo,5,100,Online
+2025-03-16,Chicken Momo,5,120,Cash
+2025-03-28,Spring Roll,5,150,Online
+2025-03-03,Gulab Jamun,5,80,Cash
+2025-03-21,Tandoori Chicken,4,300,Cash
+2025-03-26,Samosa,5,50,Online
+2025-03-29,Masala Dosa,1,130,Online
+2025-03-16,Butter Naan,1,40,UPI
+2025-03-19,Butter Naan,4,40,Online
+2025-03-26,Chicken Biryani,3,250,Online
+2025-03-02,Paneer Tikka,2,180,Online
+2025-03-09,Lassi,5,60,Cash
+2025-03-19,Samosa,4,50,Card
+2025-03-22,Masala Dosa,1,130,Online
+2025-03-01,Lassi,5,60,Online
+2025-03-05,Gulab Jamun,1,80,Cash
+2025-03-05,Paneer Tikka,3,180,Online
+2025-03-01,Paneer Tikka,3,180,Cash
+2025-03-30,Masala Dosa,2,130,Card
+2025-03-12,Samosa,4,50,Card
+2025-03-16,Paneer Tikka,2,180,Card
+2025-03-11,Butter Naan,1,40,Cash
+2025-03-30,Spring Roll,5,150,Card
+2025-03-25,Gulab Jamun,4,80,UPI
+2025-03-24,Tandoori Chicken,4,300,Card
+2025-03-24,Tandoori Chicken,5,300,Online
+2025-03-25,Veg Momo,3,100,Cash
+2025-03-15,Veg Momo,2,100,UPI
+2025-03-16,Gulab Jamun,3,80,Card
+2025-03-16,Chicken Biryani,4,250,Online
+2025-03-28,Spring Roll,5,150,UPI
+2025-03-30,Veg Momo,3,100,UPI
+2025-03-17,Chicken Biryani,3,250,Cash
+2025-03-21,Chicken Momo,5,120,Online
+2025-03-30,Chicken Biryani,5,250,Online
+2025-03-09,Veg Dum Biryani,3,220,Cash
+2025-03-13,Paneer Tikka,5,180,UPI
+2025-03-24,Samosa,2,50,Card
+2025-03-22,Butter Naan,3,40,Card
+2025-03-01,Veg Dum Biryani,5,220,Cash
+2025-03-14,Chicken Momo,1,120,Cash
+2025-03-22,Butter Naan,1,40,UPI
+2025-03-24,Veg Dum Biryani,2,220,Online
+2025-03-02,Paneer Tikka,2,180,Cash
+2025-03-02,Masala Dosa,1,130,Card
+2025-03-23,Masala Dosa,1,130,Cash
+2025-03-05,Chicken Momo,5,120,UPI
+2025-03-26,Samosa,5,50,Card
+2025-03-09,Chicken Momo,2,120,Online
+2025-03-21,Gulab Jamun,1,80,UPI
+2025-03-23,Paneer Tikka,4,180,Online
+2025-03-25,Paneer Tikka,2,180,Cash
+2025-03-13,Paneer Tikka,1,180,UPI
+2025-03-09,Veg Dum Biryani,1,220,Online
+2025-03-03,Spring Roll,4,150,UPI
+2025-03-13,Tandoori Chicken,5,300,Card
+2025-03-04,Samosa,4,50,Card
+2025-03-07,Butter Naan,4,40,Cash
+2025-03-04,Gulab Jamun,3,80,Cash
+2025-03-19,Chicken Momo,1,120,Online
+2025-03-29,Gulab Jamun,1,80,UPI
+2025-03-30,Spring Roll,1,150,Cash
+2025-03-09,Samosa,4,50,Card
+2025-03-29,Lassi,3,60,UPI
+2025-03-17,Masala Dosa,1,130,UPI
+2025-03-13,Gulab Jamun,4,80,Cash
+2025-03-01,Butter Naan,2,40,UPI
+2025-03-04,Lassi,4,60,Online
+2025-03-13,Veg Dum Biryani,3,220,Cash
+2025-03-12,Samosa,1,50,Online
+2025-03-25,Chicken Momo,4,120,Online
+2025-03-06,Samosa,2,50,Cash
+2025-03-10,Chicken Biryani,2,250,UPI
+2025-03-16,Chicken Momo,3,120,Cash
+2025-03-24,Samosa,4,50,Card
+2025-03-07,Spring Roll,1,150,Cash
+2025-03-08,Lassi,5,60,UPI
+2025-03-26,Chicken Biryani,1,250,Online
+2025-03-27,Gulab Jamun,5,80,UPI
+2025-03-11,Veg Momo,1,100,Cash
+2025-03-13,Veg Dum Biryani,1,220,Cash
+2025-03-15,Tandoori Chicken,5,300,Card
+2025-03-08,Lassi,5,60,Cash
+2025-03-16,Veg Momo,2,100,Cash
+2025-03-02,Gulab Jamun,5,80,Card
+2025-03-01,Lassi,2,60,Card
+2025-03-29,Samosa,1,50,Online
+2025-03-20,Chicken Momo,4,120,Card
+2025-03-27,Masala Dosa,1,130,Cash
+2025-03-20,Chicken Momo,4,120,Card
+2025-03-14,Chicken Momo,2,120,Online
+2025-03-11,Lassi,4,60,Cash
+2025-03-18,Samosa,5,50,Card
+2025-03-25,Veg Dum Biryani,2,220,Cash
+2025-03-11,Masala Dosa,2,130,Cash
+2025-03-05,Chicken Momo,3,120,UPI
+2025-03-18,Spring Roll,3,150,Card
+2025-03-30,Gulab Jamun,2,80,Cash
+2025-03-26,Spring Roll,1,150,UPI
+2025-03-29,Spring Roll,1,150,UPI
+2025-03-01,Chicken Momo,1,120,Card
+2025-03-29,Chicken Momo,5,120,Online
+2025-03-23,Chicken Biryani,4,250,Card
+2025-03-21,Tandoori Chicken,2,300,Online
+2025-03-14,Butter Naan,4,40,Card
+2025-03-23,Spring Roll,5,150,Cash
+2025-03-23,Masala Dosa,2,130,UPI
+2025-03-21,Masala Dosa,1,130,Online
+2025-03-01,Veg Dum Biryani,4,220,Card
+2025-03-17,Tandoori Chicken,1,300,Cash
+2025-03-28,Masala Dosa,3,130,Card
+2025-03-09,Gulab Jamun,2,80,Cash
+2025-03-26,Tandoori Chicken,1,300,Card
+2025-03-16,Samosa,4,50,Card
+2025-03-02,Spring Roll,1,150,Online
+2025-03-14,Paneer Tikka,2,180,Online
+2025-03-26,Veg Dum Biryani,5,220,UPI
+2025-03-24,Veg Momo,1,100,Cash
+2025-03-06,Butter Naan,2,40,Cash
+2025-03-04,Gulab Jamun,5,80,Cash
+2025-03-19,Tandoori Chicken,4,300,Online
+2025-03-24,Chicken Biryani,2,250,Online
+2025-03-11,Tandoori Chicken,1,300,Card
+2025-03-24,Chicken Momo,2,120,UPI
+2025-03-29,Tandoori Chicken,4,300,Card
+2025-03-19,Chicken Momo,4,120,UPI
+2025-03-05,Veg Momo,4,100,Card
+2025-03-06,Masala Dosa,4,130,UPI
+2025-03-15,Veg Dum Biryani,2,220,Card
+2025-03-09,Samosa,3,50,Card
+2025-03-02,Veg Dum Biryani,2,220,Cash
+2025-03-04,Paneer Tikka,2,180,UPI
+2025-03-06,Gulab Jamun,4,80,Online
+2025-03-20,Tandoori Chicken,3,300,Card
+2025-03-29,Samosa,5,50,Card
+2025-03-28,Masala Dosa,5,130,Card
+2025-03-28,Chicken Momo,4,120,UPI
+2025-03-16,Tandoori Chicken,5,300,UPI
+2025-03-24,Paneer Tikka,1,180,UPI
+2025-03-08,Lassi,2,60,Online
+2025-03-08,Chicken Biryani,5,250,Card
+2025-03-14,Masala Dosa,1,130,Cash
+2025-03-24,Veg Momo,4,100,Cash
+2025-03-13,Chicken Biryani,5,250,UPI
+2025-03-15,Lassi,1,60,UPI
+2025-03-18,Tandoori Chicken,1,300,Cash
+2025-03-07,Lassi,4,60,Card
+2025-03-08,Veg Dum Biryani,3,220,Cash
+2025-03-22,Veg Momo,4,100,Online
+2025-03-28,Spring Roll,4,150,Cash
+2025-03-25,Gulab Jamun,4,80,Card
+2025-03-06,Lassi,4,60,Online
+2025-03-23,Samosa,4,50,Cash
+2025-03-13,Samosa,1,50,Online
+2025-03-10,Butter Naan,1,40,UPI
+2025-03-18,Paneer Tikka,5,180,Card
+2025-03-20,Samosa,1,50,Online
+2025-03-17,Lassi,1,60,Online
+2025-03-13,Veg Momo,1,100,Online
+2025-03-02,Gulab Jamun,5,80,Online
+2025-03-21,Veg Dum Biryani,2,220,Cash
+2025-03-05,Butter Naan,2,40,Online
+2025-03-04,Tandoori Chicken,5,300,UPI
+2025-03-28,Lassi,5,60,Card
+2025-03-11,Lassi,2,60,Online
+2025-03-22,Paneer Tikka,5,180,UPI
+2025-03-03,Paneer Tikka,1,180,Online
+2025-03-16,Veg Dum Biryani,4,220,Cash
+2025-03-22,Gulab Jamun,5,80,Online
+2025-03-12,Gulab Jamun,5,80,Cash
+2025-03-03,Tandoori Chicken,4,300,Cash
+2025-03-10,Chicken Biryani,2,250,Cash
+2025-03-09,Chicken Momo,2,120,Cash
+2025-03-16,Lassi,2,60,Card
+2025-03-21,Tandoori Chicken,5,300,Cash
+2025-03-22,Paneer Tikka,4,180,Card
+2025-03-14,Gulab Jamun,3,80,UPI
+2025-03-10,Lassi,1,60,Card
+2025-03-28,Chicken Momo,1,120,Card
+2025-03-14,Butter Naan,3,40,Online
+2025-03-16,Samosa,3,50,UPI
+2025-03-19,Gulab Jamun,3,80,Card
+2025-03-26,Paneer Tikka,2,180,Online
+2025-03-12,Tandoori Chicken,4,300,Online
+2025-03-12,Veg Momo,2,100,Online
+2025-03-20,Gulab Jamun,2,80,Card
+2025-03-10,Lassi,5,60,Card
+2025-03-06,Spring Roll,2,150,Card
+2025-03-11,Chicken Momo,1,120,Card
+2025-03-12,Gulab Jamun,3,80,Card
+2025-03-23,Tandoori Chicken,5,300,Cash
+2025-03-12,Samosa,3,50,Card
+2025-03-18,Veg Dum Biryani,4,220,Card
+2025-03-04,Butter Naan,3,40,Cash
+2025-03-25,Chicken Biryani,4,250,Card
+2025-03-05,Gulab Jamun,3,80,Cash
+2025-03-17,Lassi,5,60,Online
+2025-03-16,Samosa,3,50,Online
+2025-03-26,Masala Dosa,2,130,UPI
+2025-03-24,Veg Dum Biryani,1,220,UPI
+2025-03-22,Veg Momo,2,100,Cash
+2025-03-13,Paneer Tikka,1,180,Card
+2025-03-03,Gulab Jamun,3,80,Online
+2025-03-21,Veg Momo,5,100,Card
+2025-03-08,Masala Dosa,5,130,Online
+2025-03-03,Tandoori Chicken,1,300,UPI
+2025-03-17,Samosa,1,50,UPI
+2025-03-11,Tandoori Chicken,4,300,Cash
+2025-03-13,Samosa,3,50,Card
+2025-03-12,Lassi,4,60,UPI
+2025-03-10,Veg Dum Biryani,1,220,Online
+2025-03-15,Veg Dum Biryani,3,220,Cash
+2025-03-24,Tandoori Chicken,4,300,UPI
+2025-03-06,Gulab Jamun,3,80,UPI
+2025-03-05,Lassi,4,60,Cash
+2025-03-10,Spring Roll,2,150,UPI
+2025-03-03,Butter Naan,3,40,UPI
+2025-03-14,Chicken Momo,1,120,Online
+2025-03-18,Chicken Biryani,2,250,UPI
+2025-03-25,Lassi,5,60,Card
+2025-03-27,Tandoori Chicken,2,300,UPI
+2025-03-16,Paneer Tikka,5,180,Cash
+2025-03-10,Paneer Tikka,5,180,UPI
+2025-03-08,Butter Naan,4,40,Cash
+2025-03-09,Veg Momo,2,100,Online
+2025-03-04,Samosa,4,50,Online
+2025-03-16,Chicken Biryani,2,250,Card
+2025-03-25,Veg Momo,1,100,Online
+2025-03-20,Gulab Jamun,1,80,Online
+2025-03-19,Masala Dosa,4,130,UPI
+2025-03-23,Paneer Tikka,4,180,Cash
+2025-03-24,Veg Dum Biryani,5,220,Cash
+2025-03-19,Paneer Tikka,2,180,Cash
+2025-03-15,Spring Roll,3,150,Card
+2025-03-02,Veg Dum Biryani,2,220,Online
+2025-03-21,Veg Dum Biryani,4,220,Online
+2025-03-10,Veg Momo,3,100,Cash
+2025-03-25,Butter Naan,2,40,Card
+2025-03-25,Chicken Momo,5,120,Card
+2025-03-28,Butter Naan,3,40,Online
+2025-03-09,Samosa,3,50,Online
+2025-03-19,Chicken Momo,5,120,Online
+2025-03-05,Spring Roll,1,150,Online
+2025-03-14,Veg Dum Biryani,4,220,Online
+2025-03-07,Spring Roll,1,150,Card
+2025-03-27,Butter Naan,2,40,Card
+2025-03-23,Butter Naan,5,40,Cash
+2025-03-30,Chicken Biryani,4,250,Cash
+2025-03-30,Chicken Momo,2,120,Cash
+2025-03-10,Gulab Jamun,3,80,Online
+2025-03-29,Spring Roll,4,150,Online
+2025-03-01,Spring Roll,3,150,Cash
+2025-03-28,Tandoori Chicken,2,300,Card
+2025-03-10,Lassi,2,60,Card
+2025-03-03,Tandoori Chicken,2,300,UPI
+2025-03-03,Lassi,1,60,Cash
+2025-03-02,Gulab Jamun,4,80,Card
+2025-03-26,Chicken Momo,1,120,Cash
+2025-03-30,Gulab Jamun,1,80,Online
+2025-03-10,Veg Momo,1,100,Cash
+2025-03-30,Chicken Momo,1,120,Card
+2025-03-06,Masala Dosa,2,130,Online
+2025-03-05,Veg Momo,1,100,Online
+2025-03-12,Masala Dosa,3,130,Card
+2025-03-08,Butter Naan,5,40,Cash
+2025-03-25,Chicken Momo,5,120,Cash
+2025-03-23,Butter Naan,2,40,Card
+2025-03-29,Paneer Tikka,2,180,Cash
+2025-03-30,Lassi,1,60,Card
+2025-03-12,Butter Naan,4,40,Card
+2025-03-06,Gulab Jamun,1,80,Online
+2025-03-07,Chicken Biryani,4,250,Card
+2025-03-25,Chicken Biryani,1,250,Online
+2025-03-04,Chicken Momo,4,120,Card
+2025-03-23,Gulab Jamun,3,80,Online
+2025-03-03,Butter Naan,1,40,Online
+2025-03-13,Gulab Jamun,1,80,Online
+2025-03-24,Gulab Jamun,5,80,Online
+2025-03-08,Samosa,4,50,UPI
+2025-03-07,Paneer Tikka,4,180,Cash
+2025-03-06,Gulab Jamun,3,80,Cash
+2025-03-22,Samosa,4,50,Cash
+2025-03-17,Chicken Biryani,4,250,Cash
+2025-03-13,Chicken Momo,2,120,UPI
+2025-03-04,Lassi,5,60,Card
+2025-03-07,Chicken Momo,3,120,Online
+2025-03-28,Tandoori Chicken,5,300,UPI
+2025-03-27,Chicken Momo,2,120,UPI
+2025-03-09,Lassi,4,60,Online
+2025-03-12,Samosa,4,50,UPI
+2025-03-13,Samosa,5,50,UPI
+2025-03-05,Butter Naan,3,40,UPI
+2025-03-09,Chicken Momo,1,120,UPI
+2025-03-21,Gulab Jamun,2,80,Card
+2025-03-24,Veg Momo,1,100,Cash
+2025-03-22,Chicken Momo,4,120,Cash
+2025-03-20,Spring Roll,4,150,Online
+2025-03-20,Spring Roll,3,150,Cash
+2025-03-25,Chicken Momo,5,120,UPI
+2025-03-10,Gulab Jamun,2,80,UPI
+2025-03-09,Gulab Jamun,5,80,Online
+2025-03-01,Butter Naan,5,40,Cash
+2025-03-13,Chicken Biryani,1,250,UPI
+2025-03-15,Veg Dum Biryani,4,220,UPI
+2025-03-06,Veg Momo,1,100,Online
+2025-03-16,Lassi,2,60,UPI
+2025-03-23,Spring Roll,3,150,UPI
+2025-03-19,Gulab Jamun,1,80,UPI
+2025-03-22,Samosa,5,50,UPI
+2025-03-28,Gulab Jamun,5,80,Card
+2025-03-13,Butter Naan,1,40,Online
+2025-03-13,Gulab Jamun,5,80,Online
+2025-03-02,Paneer Tikka,3,180,Cash
+2025-03-05,Masala Dosa,1,130,Online
+2025-03-01,Veg Dum Biryani,5,220,Online
+2025-03-14,Chicken Biryani,1,250,Online
+2025-03-12,Veg Dum Biryani,4,220,Cash
+2025-03-08,Samosa,2,50,Card
+2025-03-19,Samosa,3,50,Cash
+2025-03-28,Lassi,1,60,Online
+2025-03-06,Chicken Momo,3,120,Cash
+2025-03-02,Butter Naan,3,40,UPI
+2025-03-19,Samosa,4,50,UPI
+2025-03-23,Paneer Tikka,1,180,UPI
+2025-03-11,Masala Dosa,1,130,UPI
+2025-03-11,Masala Dosa,4,130,Cash
+2025-03-23,Gulab Jamun,1,80,Card
+2025-03-17,Veg Dum Biryani,4,220,Online
+2025-03-10,Spring Roll,5,150,Online
+2025-03-16,Chicken Biryani,2,250,Cash
+2025-03-10,Butter Naan,2,40,Online
+2025-03-19,Veg Momo,3,100,UPI
+2025-03-24,Tandoori Chicken,5,300,Cash
+2025-03-04,Lassi,5,60,Online
+2025-03-19,Paneer Tikka,1,180,UPI
+2025-03-12,Chicken Biryani,2,250,Cash
+2025-03-17,Samosa,3,50,Online
+2025-03-11,Chicken Biryani,5,250,Card
+2025-03-09,Chicken Biryani,4,250,UPI
+2025-03-06,Samosa,5,50,Cash
+2025-03-28,Samosa,5,50,Card
+2025-03-07,Masala Dosa,4,130,UPI
+2025-03-26,Paneer Tikka,5,180,UPI
+2025-03-17,Masala Dosa,1,130,Card
+2025-03-05,Veg Dum Biryani,4,220,Card
+2025-03-28,Spring Roll,3,150,UPI
+2025-03-28,Chicken Biryani,3,250,Cash
+2025-03-28,Samosa,2,50,UPI
+2025-03-21,Paneer Tikka,3,180,Card
+2025-03-08,Paneer Tikka,5,180,UPI
+2025-03-05,Tandoori Chicken,1,300,Card
+2025-03-26,Veg Momo,2,100,Online
+2025-03-18,Gulab Jamun,4,80,UPI
+2025-03-07,Chicken Biryani,1,250,Card
+2025-03-01,Paneer Tikka,2,180,Online
+2025-03-06,Paneer Tikka,5,180,Cash
+2025-03-26,Lassi,4,60,Cash
+2025-03-11,Veg Momo,1,100,Online
+2025-03-29,Chicken Momo,4,120,Online
+2025-03-13,Samosa,1,50,Card
+2025-03-19,Tandoori Chicken,1,300,Cash
+2025-03-25,Butter Naan,5,40,Online
+2025-03-08,Gulab Jamun,1,80,Cash
+2025-03-27,Veg Dum Biryani,3,220,UPI
+2025-03-30,Lassi,2,60,UPI
+2025-03-04,Tandoori Chicken,2,300,Card
+2025-03-15,Tandoori Chicken,3,300,UPI
+2025-03-02,Paneer Tikka,5,180,UPI
+2025-03-23,Butter Naan,3,40,Cash
+2025-03-14,Veg Dum Biryani,5,220,UPI
+2025-03-09,Samosa,2,50,Card
+2025-03-23,Veg Dum Biryani,4,220,Online
+2025-03-21,Paneer Tikka,1,180,Cash
+2025-03-23,Lassi,1,60,Card
+2025-03-13,Paneer Tikka,5,180,Online
+2025-03-29,Samosa,3,50,Cash
+2025-03-28,Butter Naan,2,40,UPI
+2025-03-30,Chicken Biryani,1,250,UPI
+2025-03-03,Paneer Tikka,3,180,Card
+2025-03-28,Paneer Tikka,2,180,Card
+2025-03-29,Gulab Jamun,3,80,UPI
+2025-03-28,Veg Momo,3,100,Cash
+2025-03-24,Gulab Jamun,4,80,UPI
+2025-03-29,Veg Dum Biryani,4,220,Cash
+2025-03-17,Spring Roll,3,150,Cash
+2025-03-20,Veg Dum Biryani,4,220,Online
+2025-03-25,Gulab Jamun,1,80,Cash
+2025-03-21,Samosa,2,50,UPI
+2025-03-01,Samosa,2,50,UPI
